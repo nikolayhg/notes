@@ -20,7 +20,6 @@ defaults:
     type: pages
   values:
     layout: page
-url: https://nikolayhg.github.io/notes
 description: My notes
 github_repo: notes
 github_username: nikolayhg
