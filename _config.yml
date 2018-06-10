@@ -28,3 +28,5 @@ theme_color: light
 remote_theme: broccolini/athena
 permalink: pretty
 markdown: kramdown
+
+theme: jekyll-theme-minimal
