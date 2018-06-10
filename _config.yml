@@ -23,8 +23,8 @@ defaults:
 url: https://nikolayhg.github.io/notes
 description: My notes
 github_repo: notes
-github_username: niolayhg
-theme_color: ligh
+github_username: nikolayhg
+theme_color: light
 remote_theme: broccolini/athena
 permalink: pretty
 markdown: kramdown
