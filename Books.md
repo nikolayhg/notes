@@ -1,8 +1,6 @@
-# Books
+# Summaries
 
-## Summaries
-
-### Summary Apps
+## Summary Apps
 * [Blinkist](https://www.blinkist.com/) - most new famous books, few missing. Price: 80€/year.
   * Web, App, Text, Audio, Offline (Easy to download), Very Intuitive to use.
 * [GetAbtract](http://www.getabstract.com/) - most new famous books, few missing. Price: 300€/year.
