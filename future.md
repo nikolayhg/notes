@@ -23,6 +23,14 @@ published: true
 
 * [Exponential Wisdom – Podcast by Peter Diamandis and Dan Sullivan](http://podcast.diamandis.com/)
 
+# Values
+
+Fast, Trust, 
+
+# Drivers
+
+Demographics, Technology
+
 # Future Topics
 
 Innovation at: Environment (world and own body) and Experience (thoughts, feelings, etc).
