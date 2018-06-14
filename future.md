@@ -29,7 +29,8 @@ Fast, Trust,
 
 # Drivers
 
-Demographics, Technology
+* Demographics - 85% of population will be living in emerging markets by 2025 (source needed).
+* Technology
 
 # Future Topics
 
