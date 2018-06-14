@@ -25,7 +25,7 @@ published: true
 
 # Values
 
-Fast, Trust, 
+Faster, Easier, Cheaper, Bigger, Trust.
 
 # Drivers
 
