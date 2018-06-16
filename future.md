@@ -8,6 +8,7 @@ published: true
 * [Futures Studies](https://en.wikipedia.org/wiki/Futures_studies) - the study of postulating possible, probable, and preferable futures and the worldviews and myths that underlie them.
 * [The Future of almost Everything by Patrick Dixon](https://globalchange.com/shocking-facts-about-our-future-how-11-billion-people-will-eat-sleep-and-breathe-in-our-future-world.htm)
 * [Future 2052 Glimpses](http://www.2052.info/future-glimpses/)
+* [Kiril Sokoloff’s Big Picture](https://www.youtube.com/watch?v=VWN6Y5Z3xs8) - AI, Quantum Computing, EU, China, India
 
 ## Futurists
 
