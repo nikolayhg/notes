@@ -38,7 +38,7 @@ published: true
 
 # Eliminate Waste
 
-## The Costs of Waste:
+## The Costs of Waste
 
 * A 30min wasteful activity per day, wastes you a single waking day per month. [See the calculation](https://docs.google.com/spreadsheets/d/1EwTd1w_q4XBIrbEh5T6a6PQsySEQHaZy2M_glMmAXVQ/edit#gid=1392074595)
 * A 30min wasteful activity per day for 30 people, wastes the whole month of one person.
