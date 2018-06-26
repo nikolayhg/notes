@@ -40,8 +40,11 @@ Innovation at: Environment (world and own body) and Experience (thoughts, feelin
 * AI
 * Cities, Business
 * Quantum Computers
+* Private Data and Security
 * Biotech
 * Health
+* Water
+* Sustainable Food Production
 * Energy (Clean, Fusion, etc)
 * 3D Printing
 * Material Science
