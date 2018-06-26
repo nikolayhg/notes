@@ -51,6 +51,11 @@ Source: https://taylorpearson.me/fast/
 
 * Write shorter emails
 * Make quicker decisions
+* http://e.ggtimer.com/5minutes - browser based timer
+* https://getpocket.com/
+* Use Calendly to schedule meetings.
+* Use a text expander to save commonly used phrases (like your address or commonly typed URLs).
+* Music: [brain.fm](https://www1.brain.fm), [noisli](https://www.noisli.com/)
 
 # Delegate
 
