@@ -18,6 +18,19 @@ published: true
 * [Paired Comparison Analysis](https://www.mindtools.com/pages/article/newTED_02.htm) - list options and their relative importance, calculate total score.
 
 
+# Productivity
+
+## The 70% Rule
+
+* Once you’re at 70%, just do it.
+  * The project is 70% finished? Ship it
+  * You’re 70% sure about the decision? Make it.
+* if you’re making a decision that is either:
+  * 1. Cheap to be wrong about OR
+  * 2. Easily reversible
+  
+Source: https://taylorpearson.me/fast/
+
 # Questions
 
 * How can you achieve your 10 year plan in the next 6 months?
