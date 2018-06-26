@@ -12,7 +12,7 @@ published: true
   * IU do first. Examples: deadlines, pressing issues.
   * INU plan and schedule. Examples: health, long-term strategizing.
   * NIU minimize or delegate. Examples: distractions, repetitive work, low value activity, immediate desires.
-  * NINU don't do. Examples: news, movies, time wasters.
+  * NINU don't do. Examples: news, movies, time wasters, old hobbies.
 * [Pareto principle or 80/20](https://en.wikipedia.org/wiki/Pareto_principle) - 80% of effects come from 20% of causes.
 * [Decision Matrix Analysis](https://www.mindtools.com/pages/article/newTED_03.htm) - list options, **factors** and their importance, calculate total score.
 * [Paired Comparison Analysis](https://www.mindtools.com/pages/article/newTED_02.htm) - list options and their relative importance, calculate total score.
