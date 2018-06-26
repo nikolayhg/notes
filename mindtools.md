@@ -4,6 +4,15 @@ date: {}
 published: true
 ---
 
+# Questions
+
+* How can you achieve your 10 year plan in the next 6 months?
+* What if you only had 6 months left to live?
+
+## Interpersonal
+
+* What important truth do very few people agree with you on? ([read](https://fs.blog/2015/11/the-single-best-interview-question-you-can-ask/))
+
 # Decision Making
 
 ## Priorization
@@ -16,7 +25,10 @@ published: true
 * [Pareto principle or 80/20](https://en.wikipedia.org/wiki/Pareto_principle) - 80% of effects come from 20% of causes.
 * [Decision Matrix Analysis](https://www.mindtools.com/pages/article/newTED_03.htm) - list options, **factors** and their importance, calculate total score.
 * [Paired Comparison Analysis](https://www.mindtools.com/pages/article/newTED_02.htm) - list options and their relative importance, calculate total score.
-
+* Prioritize tomorrow
+* Make a “Not To Do List”
+* Putting accountability to work
+  * Put structures and systems in place to measure and record your progress. Schedule regular appointments to check in.
 
 # Productivity
 
@@ -31,11 +43,17 @@ published: true
   
 Source: https://taylorpearson.me/fast/
 
-# Questions
+## Pomodoro Technique
 
-* How can you achieve your 10 year plan in the next 6 months?
-* What if you only had 6 months left to live?
+* focuses on working in short, intensely focused bursts, and then giving yourself a brief break to recover and start over.
 
-## Interpersonal
+## Others
 
-* What important truth do very few people agree with you on? ([read](https://fs.blog/2015/11/the-single-best-interview-question-you-can-ask/))
+* Write shorter emails
+* Make quicker decisions
+
+# Delegate
+
+* Use platforms like [Upwork](https://www.upwork.com/) and [Fancy Hands](https://www.fancyhands.com/) to outsource tasks which can be done for less than your hourly rate.
+
+
