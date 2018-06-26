@@ -21,6 +21,7 @@ published: true
 # Questions
 
 * How can you achieve your 10 year plan in the next 6 months?
+* What if you only had 6 months left to live?
 
 ## Interpersonal
 
