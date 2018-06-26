@@ -16,3 +16,12 @@ published: true
 * [Pareto principle or 80/20](https://en.wikipedia.org/wiki/Pareto_principle) - 80% of effects come from 20% of causes.
 * [Decision Matrix Analysis](https://www.mindtools.com/pages/article/newTED_03.htm) - list options, **factors** and their importance, calculate total score.
 * [Paired Comparison Analysis](https://www.mindtools.com/pages/article/newTED_02.htm) - list options and their relative importance, calculate total score.
+
+
+# Questions
+
+* How can you achieve your 10 year plan in the next 6 months?
+
+## Interpersonal
+
+* What important truth do very few people agree with you on? ([read](https://fs.blog/2015/11/the-single-best-interview-question-you-can-ask/))
