@@ -61,4 +61,6 @@ Source: https://taylorpearson.me/fast/
 
 * Use platforms like [Upwork](https://www.upwork.com/) and [Fancy Hands](https://www.fancyhands.com/) to outsource tasks which can be done for less than your hourly rate.
 
+# Links
 
+* [Mental Models: The Best Way to Make Intelligent Decisions](https://fs.blog/mental-models/)
