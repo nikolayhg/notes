@@ -17,6 +17,7 @@ published: true
 
 ## Priorization
 
+* Do the most important thing first each day.
 * [Eisenhower Matrix](http://www.eisenhower.me/eisenhower-matrix/) - categorize into (not) important and (not) urgent. [Examples](http://www.planetofsuccess.com/blog/2015/stephen-coveys-time-management-matrix-explained/).
   * IU do first. _Examples_: deadlines, pressing issues.
   * INU plan and schedule. _Examples_: long-term strategizing, health.
@@ -31,6 +32,14 @@ published: true
 * Make a “Not To Do List”
 * Putting accountability to work
   * Put structures and systems in place to measure and record your progress. Schedule regular appointments to check in.
+* Method criteria: simple, limits you.
+
+## Reduce Decision Fatigue
+
+* Limit and simplify your choices: clothes, food, transport, etc.
+* Aim for good enough instead of perfection.
+* Don’t make decisions if you feel distracted.
+* Plan daily decisions the night before.
 
 # Productivity
 
@@ -58,8 +67,6 @@ Source: https://taylorpearson.me/fast/
 * Use Calendly to schedule meetings.
 * Use a text expander to save commonly used phrases (like your address or commonly typed URLs).
 * Music: [brain.fm](https://www1.brain.fm), [noisli](https://www.noisli.com/)
-* If it takes less than two minutes, then do it now.
-* If it costs less than XX dollars, do it.
 
 # Delegate
 
