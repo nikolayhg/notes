@@ -25,6 +25,8 @@ published: true
 * [Pareto principle or 80/20](https://en.wikipedia.org/wiki/Pareto_principle) - 80% of effects come from 20% of causes.
 * [Decision Matrix Analysis](https://www.mindtools.com/pages/article/newTED_03.htm) - list options, **factors** and their importance, calculate total score.
 * [Paired Comparison Analysis](https://www.mindtools.com/pages/article/newTED_02.htm) - list options and their relative importance, calculate total score.
+* Two List Strategy by Warren Buffett
+  * List 25 things you want to do. Focus on top 5 and avoid all others at all costs! Until the top 5 are completed.
 * Prioritize tomorrow
 * Make a “Not To Do List”
 * Putting accountability to work
