@@ -74,4 +74,4 @@ Source: https://taylorpearson.me/fast/
 
 # Links
 
-* [Mental Models: The Best Way to Make Intelligent Decisions](https://fs.blog/mental-models/), [Most Shared Articles by fs](https://fs.blog/best-articles/).
+* [Mental Models: The Best Way to Make Intelligent Decisions](https://fs.blog/mental-models/), [Most Shared Articles by Farnam Street](https://fs.blog/best-articles/).
