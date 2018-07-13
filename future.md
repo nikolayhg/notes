@@ -9,7 +9,7 @@ published: true
 * [The Future of almost Everything by Patrick Dixon](https://globalchange.com/shocking-facts-about-our-future-how-11-billion-people-will-eat-sleep-and-breathe-in-our-future-world.htm)
 * [Future 2052 Glimpses](http://www.2052.info/future-glimpses/)
 * [Kiril Sokoloff’s Big Picture](https://www.youtube.com/watch?v=VWN6Y5Z3xs8) - AI, Quantum Computing, EU, China, India
-* [The list of global issues by 80000hours](https://80000hours.org/articles/cause-selection/) and their [v](http://priority.wiki/)
+* [The list of global issues by 80000hours](https://80000hours.org/articles/cause-selection/) and their [priority.wiki](http://priority.wiki/)
 
 ## Futurists
 
