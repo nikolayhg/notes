@@ -21,3 +21,15 @@ The first condition of freedom is limitation. If freedom is absolute, then it di
 * War seems to be a constant among all civilizations and times. It is a result of competition among groups just as individuals compete as well. War is, paradoxically, the driver of much technological change and cultural change that leads to long periods of peace afterward.
 * Revolutions are just surface level changes. Human nature remains the same. The people merely change with the revolution and fall back into the same underlying patterns.
 * Every generation rebels against the preceding one. In many ways, it is natural and desirable.
+
+# [Collapse: How Societies Choose to Fail or Succeed](https://en.wikipedia.org/wiki/Collapse:_How_Societies_Choose_to_Fail_or_Succeed)
+
+5 factors that contribute to collapse:
+
+* Climate change
+* Environmental problems
+* Hostile neighbours
+* Collapse of essential trading partners
+* The society's response to the forgoing four factors.
+
+"The root problem in all but one of Diamond's factors leading to collapse is overpopulation relative to the practicable (as opposed to the ideal theoretical) carrying capacity of the environment"
