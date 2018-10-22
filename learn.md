@@ -1,9 +1,9 @@
 ---
-title: 'Books'
+title: 'Learn'
 date: 2018-06-10
 ---
 
-# Summaries
+# Book Summaries
 
 ## Summary Apps
 * [Blinkist](https://www.blinkist.com/) - most new famous books, few missing. Price: 80€/year.
