@@ -45,7 +45,7 @@ published: true
 * Have a great product
 * Work super hard.
 
-* [Michael Jordan](https://en.wikipedia.org/wiki/Michael_Jordan)
+# [Michael Jordan](https://en.wikipedia.org/wiki/Michael_Jordan)
 
 [10 Rules](https://www.youtube.com/watch?v=NidqtkXq9Yg):
 * Keep working hard
