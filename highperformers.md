@@ -4,7 +4,7 @@ date: {}
 published: true
 ---
 
-# Michael Phelps
+# [Michael Phelps](https://en.wikipedia.org/wiki/Michael_Phelps)
 
 * mental visualization of the perfect race
 * focus on the process, not results
