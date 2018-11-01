@@ -45,6 +45,21 @@ published: true
 * Have a great product
 * Work super hard.
 
+* [Michael Jordan](https://en.wikipedia.org/wiki/Michael_Jordan)
+
+[10 Rules](https://www.youtube.com/watch?v=NidqtkXq9Yg):
+* Keep working hard
+* Practice
+* Ignite the fire
+* Be different
+* Fail your way to success
+* Have high expectations
+* Be positive
+* Be who you were born to be
+* Have a vision
+* Stop making excuses
+
+
 # [Christopher Langan](https://en.wikipedia.org/wiki/Christopher_Langan)
 
 Smart, High IQ.
