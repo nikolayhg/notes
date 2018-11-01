@@ -31,6 +31,20 @@ published: true
 * Two biggest barriers: our ego and blindspot.
 * Struggle well.
 
+# [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)
+
+[10 Rules](https://www.youtube.com/watch?v=zX7I_Rw8Q0I):
+* Never give up
+* Really like what you do
+* Don't listen to the little man
+* Take a risk
+* Do something important
+* Focus on signal vs noise
+* Look for problem solvers
+* Attract great people
+* Have a great product
+* Work super hard.
+
 # [Christopher Langan](https://en.wikipedia.org/wiki/Christopher_Langan)
 
 Smart, High IQ.
