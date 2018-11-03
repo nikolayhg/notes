@@ -64,3 +64,12 @@ published: true
 
 Smart, High IQ.
 * Become good at what information to keep and what to throw out (filter).
+
+
+# [Alex Honnold](https://en.wikipedia.org/wiki/Alex_Honnold)
+
+[How I climbed a 3,000-foot vertical cliff - without ropes](https://youtu.be/6iM6M_7wBMc?t=405):
+* Prepared for years.
+* Memorized all moves.
+* Visuliazed all possible outcomes and prepared his mindset.
+* Automated.
