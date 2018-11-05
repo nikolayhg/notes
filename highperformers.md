@@ -73,3 +73,18 @@ Smart, High IQ.
 * Memorized all moves.
 * Visuliazed all possible outcomes and prepared his mindset.
 * Automated.
+
+
+# Flow
+
+Psychological:
+- Clear Goals
+- Immediate Feedback
+- The Challenge/Skills Ratio
+- Intensely Focused Attention
+
+
+Environmental:
+- High Consequences
+- Rich Environment
+- Deep Embodiment
