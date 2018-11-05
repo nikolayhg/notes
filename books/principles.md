@@ -1,3 +1,9 @@
+---
+title: Principles - Ray Dalio
+date: {}
+published: false
+---
+
 # Principles - Ray Dalio
 
 Use the *5 Step process*:
