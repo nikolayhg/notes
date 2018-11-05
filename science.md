@@ -22,3 +22,7 @@ published: true
 * Law        : a statement            about a phenomenon
 * Facts: simple basic observations that have shown to be true.
 * Laws: generalized observations about a relationship between two or more things in the natural world.
+
+# Scientific Process
+
+Observations -> Questions -> Model (Hypothesis) / Explanation -> Prediction -> Testing -> Observations
