@@ -92,6 +92,7 @@ Environmental:
 # Pro Gamers
 
 > StarCraft, is the chess of our generation. StarCraft requires the dexterity of a pianist, the mind of a chess grandmaster, and the discipline of an Olympic trainee. [Day9](https://liquipedia.net/starcraft2/Mental_Checklist)
+
 * Multitasking and speed
   * First ACCURACY, then SPEED through practice.
   * get a lot of things done without wasting time/effort. Faster execution means more time for other important things.
