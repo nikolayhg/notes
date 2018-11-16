@@ -93,12 +93,11 @@ Environmental:
 
 > StarCraft, is the chess of our generation. StarCraft requires the dexterity of a pianist, the mind of a chess grandmaster, and the discipline of an Olympic trainee. [Day9](https://liquipedia.net/starcraft2/Mental_Checklist)
 * Multitasking and speed
-  * First ACCURACY, then SPEED with practice.
+  * First ACCURACY, then SPEED through practice.
   * get a lot of things done without wasting time/effort. Faster execution means more time for other important things.
-  * WASTE: watching something getting done, passively
-  * Task prioritizazion. Do what is important.
-* Focus on what is important to winning.
+  * WASTE: watching something getting done, passively. As soon as he knows what's gonna happen, he focuses on the other important things.
+  * Task prioritizazion. Do what is important to winning.
 * Complete knowledge of the game and strategies.
-* Practice and progress. Review and learn.
 * Utilize tempo/timing.
 * Control fights.
+* Practice and progress. Review and learn.
