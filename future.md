@@ -20,6 +20,7 @@ published: true
 # Long Term
 
 * [The Long Now Foundation](http://longnow.org/)
+* [DailyOverview](https://twitter.com/DOverview) - showing Earth from above to inspire the Overview Effect, highlight human impact, and change the way we see our planet.
 
 # Podcasts
 
