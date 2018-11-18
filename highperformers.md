@@ -102,3 +102,4 @@ Environmental:
 * Utilize tempo/timing.
 * Control fights.
 * Practice and progress. Review and learn.
+* Have all Flow charateristics.
