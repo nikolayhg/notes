@@ -11,3 +11,7 @@ date: 2018-06-10
 * [GetAbtract](http://www.getabstract.com/) - most new famous books, few missing. Price: 300€/year.
   * Web (download as PDF, epub, mobi), App (Offline - Not easy to download), Text, Audio, Less Intuitive to use.
   * Cons: Does not have chapters. Text-To-Speech does not have a slider. Does not remember last views paragraph of a book.
+
+# Videos
+
+* [What I've Learned](https://www.youtube.com/channel/UCqYPhGiB9tkShZorfgcL2lA) - health according to science.
