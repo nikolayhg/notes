@@ -19,22 +19,23 @@ published: true
 
 ## Priorization
 
-* Do the most important thing first each day.
+* [Pareto principle or 80/20](https://en.wikipedia.org/wiki/Pareto_principle) - 80% of effects come from 20% of causes.
 * [Eisenhower Matrix](http://www.eisenhower.me/eisenhower-matrix/) - categorize into (not) important and (not) urgent. [Examples](http://www.planetofsuccess.com/blog/2015/stephen-coveys-time-management-matrix-explained/).
   * IU do first. _Examples_: deadlines, pressing issues.
   * INU plan and schedule. _Examples_: long-term strategizing, health.
   * NIU minimize or delegate. _Examples_: distractions, repetitive work, low value activity, immediate desires.
   * NINU don't do. _Examples_: news, movies, entertainment, comfort, old hobbies, time wasters.
-* [Pareto principle or 80/20](https://en.wikipedia.org/wiki/Pareto_principle) - 80% of effects come from 20% of causes.
 * [Decision Matrix Analysis](https://www.mindtools.com/pages/article/newTED_03.htm) - list options, **factors** and their importance, calculate total score.
 * [Paired Comparison Analysis](https://www.mindtools.com/pages/article/newTED_02.htm) - list options and their relative importance, calculate total score.
 * Two List Strategy by Warren Buffett
   * List 25 things you want to do. Focus on top 5 and avoid all others at all costs! Until the top 5 are completed.
-* Prioritize tomorrow
 * Make a “Not To Do List”
 * Putting accountability to work
   * Put structures and systems in place to measure and record your progress. Schedule regular appointments to check in.
 * Method criteria: simple, limits you.
+* Prioritize tomorrow
+* Do the most important thing first each day.
+
 
 ## Reduce Decision Fatigue
 
@@ -59,6 +60,11 @@ Source: https://taylorpearson.me/fast/
 ## Pomodoro Technique
 
 * focuses on working in short, intensely focused bursts, and then giving yourself a brief break to recover and start over.
+
+## Parkinson's Law
+
+* "work expands so as to fill the time available for its completion"
+* Reduce Time to Increase Output
 
 ## Others
 
