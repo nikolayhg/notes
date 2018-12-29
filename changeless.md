@@ -8,7 +8,7 @@ published: true
 
 * Change
 
-## Humans:
+## Humans
 * Experiencing during any exprience. Also named by some: awareness, consciousness.
 * Breathing
 * Sleeping
@@ -17,7 +17,7 @@ published: true
 * Desire to avoid pain
 
 
-## Universe:
+## Universe
 * Scientific laws, until improved
 * Speed of light. Debatable: [BigThink](https://bigthink.com/philip-perry/is-the-speed-of-light-slowing-down)
 
