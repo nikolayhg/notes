@@ -99,7 +99,7 @@ Environmental:
   * First ACCURACY, then SPEED through practice.
   * get a lot of things done without wasting time/effort. Faster execution means more time for other important things.
   * WASTE: watching something getting done, passively. As soon as he knows what's gonna happen, he focuses on the other important things.
-  * Task prioritizazion. Do what is important to winning.
+  * Task prioritization. Do what is important to winning.
 * Complete knowledge of the game and strategies.
 * Utilize tempo/timing.
 * Control fights.
