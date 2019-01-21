@@ -6,7 +6,7 @@ published: true
 
 # [Michael Phelps](https://en.wikipedia.org/wiki/Michael_Phelps)
 
-* mental visualization of the perfect race
+* mental visualization of the perfect race. Also the worst possible scenario.
 * focus on the process, not results
 * pursue excellence every day
 * remind yourself of the ultimate vision
