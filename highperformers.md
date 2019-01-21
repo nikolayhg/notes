@@ -11,7 +11,7 @@ published: true
 * pursue excellence every day
 * remind yourself of the ultimate vision
 * visualize
-* practice 365 days for 6 years. On Christmas, New Year’s and birthdays.
+* practice 365 days for 6 years. On Christmas, New Year’s and birthdays. Sunday is 1/7 more per week.
 * optimize the number of consecutive days with peak performance.
 * There are days you not gonna want to do it, but it is what you do on those days, that help you move forward. This is [the difference between the good and the greatest](https://youtu.be/z62It49qRjE?t=18)!
 * What is important now? (instead of how I feel now). Show up and do your best no mwatter you feel like it or not.
@@ -20,6 +20,8 @@ Bob Bowman (his coach)
 * Create an environment where Excellence is inevitable. [Source](https://www.youtube.com/watch?v=3QKTEHkVeNs)
 * The higher you go, the more mental the game is.
 * The most strongly held mental picture is where you’ll be… so get really good at mental rehearsal. If you can form a strong mental picture and visualize yourself doing it, your brain will immediately find ways to get you there. Source: [forbes](https://www.forbes.com/sites/carminegallo/2016/05/24/3-daily-habits-of-peak-performers-according-to-michael-phelps-coach/#3ec32eb4102c)
+* Set your goals high. Work conscientiously, every day, to achieve them.
+* Make a habit of doing things that unsuccessful people don’t like to do.
 * [Characteristics of Champions](https://www.youtube.com/watch?v=xagTJo_vGTk)
   * have a dream.
   * have a clear plan for success and achieving their goals.
