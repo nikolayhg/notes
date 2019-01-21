@@ -14,7 +14,7 @@ published: true
 * practice 365 days for 6 years. On Christmas, New Year’s and birthdays. Sunday is 1/7 more per week.
 * optimize the number of consecutive days with peak performance.
 * There are days you not gonna want to do it, but it is what you do on those days, that help you move forward. This is [the difference between the good and the greatest](https://youtu.be/z62It49qRjE?t=18)!
-* What is important now? (instead of how I feel now). Show up and do your best no mwatter you feel like it or not.
+* What is important now? (instead of how I feel now). Show up and do your best no matter you feel like it or not. Bringing your best when you feel your worst.
 
 Bob Bowman (his coach)
 * Create an environment where Excellence is inevitable. [Source](https://www.youtube.com/watch?v=3QKTEHkVeNs)
