@@ -12,6 +12,7 @@ published: true
 * remind yourself of the ultimate vision
 * visualize
 * practice 365 days for 6 years
+* optimize the number of consecutive days with peak performance.
 * There are days you not gonna want to do it, but it is what you do on those days, that help you move forward. This is the difference between the good and the greatest!
 * What is important now? (instead of how I feel now). Show up and do your best no mwatter you feel like it or not.
 
