@@ -4,16 +4,22 @@ date: {}
 published: true
 ---
 
-# Questions
+# Clarity
+- who you want to become?
+- what you want?
+- assume 100% responsibility for your own level of clarity.
+
+Questions:
+* What do I __really__ want?
+* If I leave what I love, do I come back to it?
+* What if I had only had 6 months left to live?
+* What is __my best version__? 
+  * Imagine the last day of your life. And you meet the best version of you, that you could have become. See and feel the difference between you and your best. Ask questions.
+
+# Plan
 
 * How can you achieve your 10 year plan in the next 6 months?
 * How can I achieve my goal 10x faster?
-* What if you only had 6 months left to live?
-* If you could automate everything, what wouldn't you automate?
-
-## Interpersonal
-
-* What important truth do very few people agree with you on? ([read](https://fs.blog/2015/11/the-single-best-interview-question-you-can-ask/))
 
 # Decision Making
 
@@ -46,6 +52,11 @@ published: true
 
 # Productivity
 
+## Habits
+* to make a habit, make it: Obvious, Attractive, Easy, Satisfying.
+* to break habit, make it: invisible, unattractive, difficult, unsatisfying.
+* do it everyday at predictable time.
+
 ## The 70% Rule
 
 * Once you’re at 70%, just do it.
@@ -66,7 +77,11 @@ Source: https://taylorpearson.me/fast/
 * "work expands so as to fill the time available for its completion"
 * Reduce Time to Increase Output
 
-## Others
+## Delegate
+
+* Use platforms like [Upwork](https://www.upwork.com/) and [Fancy Hands](https://www.fancyhands.com/) to outsource tasks which can be done for less than your hourly rate.
+
+## Other Productivity Advices
 
 * Write shorter emails
 * Make quicker decisions
@@ -76,9 +91,11 @@ Source: https://taylorpearson.me/fast/
 * Use a text expander to save commonly used phrases (like your address or commonly typed URLs).
 * Music: [brain.fm](https://www1.brain.fm), [noisli](https://www.noisli.com/)
 
-# Delegate
+# Questions
 
-* Use platforms like [Upwork](https://www.upwork.com/) and [Fancy Hands](https://www.fancyhands.com/) to outsource tasks which can be done for less than your hourly rate.
+Interpersonal:
+
+* What important truth do very few people agree with you on? ([read](https://fs.blog/2015/11/the-single-best-interview-question-you-can-ask/))
 
 # Links
 
