@@ -20,6 +20,7 @@ published: true
   * Decision Making / Time
   * Action / Time
   * The Keys to consistently leverage: A) Know your goals B) Act and Review your time and energy allocation towards those goals
+* Express your best version moment to moment.
 
 # 10x
 
