@@ -50,6 +50,11 @@ Questions:
 * Don’t make decisions if you feel distracted.
 * Plan daily decisions the night before.
 
+## Others on DM
+
+* [Smart Decisions](https://fs.blog/smart-decisions/) by Farnam Street.
+* [Mental Models](https://fs.blog/mental-models/) by Farnam Street.
+
 # Productivity
 
 ## Habits
