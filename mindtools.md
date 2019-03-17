@@ -102,9 +102,24 @@ Source: https://taylorpearson.me/fast/
 
 ## [Inversion](https://fs.blog/2013/10/inversion/)
 * Goal: Improve X.
-* Forward Approach: What can you do to improve X?
-* Inverted Approach: What can you do to worsen X? Avoid it.
+* Approach:
+  * Forward Approach: What can you do to improve X?
+  * Inverted Approach: What can you do to worsen X? Avoid it.
 * Comment: Less likely to cause harm. Avoids the worst.
+
+## [Second-Order Thinking](https://fs.blog/2016/04/second-order-thinking/)
+* Goal: examine the long-term consequences of our decisions
+* Approach:
+  * Never seize on the first available option, no matter how good it seems, before you’ve asked questions and explored further.
+  * consider the second and subsequent order impacts.
+  * Ask:
+    * And then what?
+    * What do the consequences look through time? 10 min, 10 months, 10 years?
+    * How the environment will react to it?
+* Comment:
+  * First-level thinking is fast, easy and superficial. It is similar, everyone reaches similar conclusions.
+  * Second-level thinking is deep, complex and convoluted. Extraordinary performance comes from seeing things that other people can’t see. Less competition.
+  * Long-term success can be the result of first-order negative and subsequent order positive things.
 
 
 # Questions
