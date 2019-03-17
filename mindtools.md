@@ -96,6 +96,17 @@ Source: https://taylorpearson.me/fast/
 * Use a text expander to save commonly used phrases (like your address or commonly typed URLs).
 * Music: [brain.fm](https://www1.brain.fm), [noisli](https://www.noisli.com/)
 
+# Mental Models
+
+* [Mental models](https://fs.blog/mental-models/) by Farnam Street.
+
+## [Inversion](https://fs.blog/2013/10/inversion/)
+* Goal: Improve X.
+* Forward Approach: What can you do to improve X?
+* Inverted Approach: What can you do to worsen X? Avoid it.
+* Comment: Less likely to cause harm. Avoids the worst.
+
+
 # Questions
 
 Interpersonal:
