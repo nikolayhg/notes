@@ -1,10 +1,10 @@
 ---
-title: Nutition
+title: Nutrition
 date: {}
 published: true
 ---
 
-# Nutition
+# Nutrition
 
 * [Red Pen Reviews](https://www.redpenreviews.org/reviews/) - Expert health and nutrition book reviews that sort fact from fiction.
 
