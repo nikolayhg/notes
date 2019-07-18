@@ -35,6 +35,11 @@ Questions:
 * [Paired Comparison Analysis](https://www.mindtools.com/pages/article/newTED_02.htm) - list options and their relative importance, calculate total score.
 * Two List Strategy by Warren Buffett
   * List 25 things you want to do. Focus on top 5 and avoid all others at all costs! Until the top 5 are completed.
+* [The Ivy Lee Method](https://jamesclear.com/ivy-lee)
+  * End of day write 6 things to do tomorrow
+  * Prioritize them.
+  * Tomorrow, work focused on the first until is finished. Only then go the next.
+  * Repeat.
 * Make a “Not To Do List”
 * Putting accountability to work
   * Put structures and systems in place to measure and record your progress. Schedule regular appointments to check in.
