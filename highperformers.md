@@ -91,6 +91,23 @@ Bob Bowman (his coach)
 * Have a vision
 * Stop making excuses
 
+# [Floyd Mayweather Jr.](https://en.wikipedia.org/wiki/Floyd_Mayweather_Jr.)
+
+Undefeated 50:0 boxer for 21 years.
+* Raised in family of boxers
+* Boxing since childhood. No parks, movies, ice cream, just training. You are special. Watched how the best do it.
+* Believe you are the best
+* Always be your best
+* Dedicate yourself to your craft
+* Have a game plan
+* To become great, you have to follow greatness
+* Always have a backup plan
+* Outdo the training of your opponents
+* Work daily, beyond schedule. Never get tired. Continuous state of training
+* To be the best you got to work overtime
+* Goes to work while his oppononets are sleeping
+* Strive to be perfect every day
+
 
 # [Christopher Langan](https://en.wikipedia.org/wiki/Christopher_Langan)
 
