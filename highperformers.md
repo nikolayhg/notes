@@ -107,6 +107,7 @@ Undefeated 50:0 boxer for 21 years.
 * To be the best you got to work overtime
 * Goes to work while his oppononets are sleeping
 * Strive to be perfect every day
+* Calm mind
 
 
 # [Christopher Langan](https://en.wikipedia.org/wiki/Christopher_Langan)
