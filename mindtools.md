@@ -16,6 +16,8 @@ Questions:
 * What is __my best version__? 
   * Imagine the last day of your life. And you meet the best version of you, that you could have become. See and feel the difference between you and your best. Ask questions.
 
+* Create clarity by distancing yourself from the research subject, observing it without limiting views and from expanding views.
+
 # Plan
 
 * How can you achieve your 10 year plan in the next 6 months?
