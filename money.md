@@ -4,6 +4,10 @@ date: {}
 published: true
 ---
 
+# Current System
+* [Rich Dad's Cashflow Quadrant](https://www.richdad.com/cashflow-quadrant)
+
+
 # Sustainable Banking
 
 ## Germany
