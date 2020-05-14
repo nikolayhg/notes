@@ -13,4 +13,4 @@ published: true
 
 # Helping With Money
 
-* [Effective Altruism](https://www.effectivealtruism.org/). [Introduction](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/), [Resources](https://www.effectivealtruism.org/resources/)
+* [Effective Altruism](https://www.effectivealtruism.org/). [Introduction](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/), [Resources](https://www.effectivealtruism.org/resources/), [Groups](https://eahub.org/groups/)
