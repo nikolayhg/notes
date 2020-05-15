@@ -10,6 +10,9 @@ published: true
 * [Future 2052 Glimpses](http://www.2052.info/future-glimpses/)
 * [Kiril Sokoloff’s Big Picture](https://www.youtube.com/watch?v=VWN6Y5Z3xs8) - AI, Quantum Computing, EU, China, India
 * [The list of global issues by 80000hours](https://80000hours.org/articles/cause-selection/) and their [priority.wiki](http://priority.wiki/)
+* [Foresight Institute](https://foresight.org/) - coming revolutions in technology will bring extraordinary opportunities, as well as unprecedented challenges. Foresight’s mission is to steer those revolutions toward futures of Existential Hope.
+
+
 
 ## Futurists
 
