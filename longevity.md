@@ -28,6 +28,9 @@ Healthy at 100, John Robbins:
 * "The researchers found that the frequency of colds among people who exercised five or more days a week was up to 46 percent less than that of people who were largely sedentary—that is, who exercised only one day or less per week." Super Immunity by JOEL FUHRMAN
 * aerobics not only releases the endorphins that can combat a down mood but also promotes the growth of the brain (Dan Siegel’s Mindsight)
 
+Michael Lustgarten, PhD, [Interview](https://www.bisu.bio/biohacking-to-100-longevity-lessons-from-15-years-of-self-tracking-ft-michael-lustgarten-phd/)
+>    Eight years of an increased average life expectancy came from people who exercise for 30 minutes a day. And this isn’t, strenuous weightlifting. This was as limited as just walking for 30 minutes a day.
+
 # Sleep
 
 Factors:
