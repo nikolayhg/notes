@@ -93,6 +93,20 @@ The Jordan Rules for Success, [Part 1](https://invidio.us/watch?v=wQq-Nnas-Ro), 
   * I've been there so many times, in my mind, just playing tricks with my mind.
   * That's how I became a master of the game.
   * Mindfulness, stillness, be in the moment.
+* __Push those around you to greateness__
+  * Push yourself more than the others.
+  * He was tough with his teammates. Hard on them, push them, bring out the best of them.
+* __Be in the best physical shape of everyone__
+  * so that you have more energy when performing and perform more hours
+* __Be even more competitive than you think you need to be__
+  * in game, in practice, in life
+* __Turn weaknesses into strengths__
+  * Take control of your weaknesses
+  * He needed muscles and then lifted weights
+  * He needed to get better at shooting and practiced shooting
+  * He was told he was not that good at defence, and then he practiced and became one of the best defensive players.
+  * Every season Jordan came back better.
+  * Those are my weaknesses, I will figure out how can I make them my strengths.
 
 [10 Rules](https://www.youtube.com/watch?v=NidqtkXq9Yg):
 * Keep working hard
@@ -106,7 +120,6 @@ The Jordan Rules for Success, [Part 1](https://invidio.us/watch?v=wQq-Nnas-Ro), 
 * Have a vision
 * Stop making excuses
 
-  
 
 # [Floyd Mayweather Jr.](https://en.wikipedia.org/wiki/Floyd_Mayweather_Jr.)
 
