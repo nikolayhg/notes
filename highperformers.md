@@ -42,7 +42,7 @@ American entrepreneur, investor, programmer. Former president of Y Combinator an
 Indian American entrepreneur and investor
 
 * [Life Formulas I](https://nav.al/life-formulas-i)
-* [How to Get Rich (without getting lucky)](https://twitter.com/naval/status/1002103360646823936)
+* [How to Get Rich (without getting lucky)](https://twitter.com/naval/status/1002103360646823936). [Interviews collection about it](https://nav.al/rich)
 
 
 # Finance
