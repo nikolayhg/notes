@@ -79,6 +79,8 @@ Bob Bowman (his coach)
 
 # [Michael Jordan](https://en.wikipedia.org/wiki/Michael_Jordan)
 
+The GOAT (Greatest Of All Time) basketball player.
+
 The Jordan Rules for Success, [Part 1](https://invidio.us/watch?v=wQq-Nnas-Ro), [Part 2](https://invidio.us/watch?v=7ipxfWfbE1w)
 * __Outwork everyone__
   * every single day, started early, to be the best he had to outwork everyone else, last person to leave.
