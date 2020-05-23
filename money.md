@@ -7,6 +7,7 @@ published: true
 # Current System
 * [Rich Dad's Cashflow Quadrant](https://www.richdad.com/cashflow-quadrant)
 
+TODO: share more info
 
 # Sustainable Banking
 
