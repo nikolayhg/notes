@@ -79,6 +79,21 @@ Bob Bowman (his coach)
 
 # [Michael Jordan](https://en.wikipedia.org/wiki/Michael_Jordan)
 
+The Jordan Rules for Success, [Part 1](https://invidio.us/watch?v=wQq-Nnas-Ro), [Part 2](https://invidio.us/watch?v=7ipxfWfbE1w)
+* __Outwork everyone__
+  * every single day, started early, to be the best he had to outwork everyone else, last person to leave.
+* __Treat every practice like it is a game__
+  * intense practice sessions. He was as good in practice as in game. Ferocious competitiveness in practice. Sets the tone for the team.
+  * During practice use your mind to create a game like environment with pressure so that when you get into crunch time your mind is ready and you could go on autopilot, operate on instinct.
+* __Have higher standards for yourself__
+  * I am competing against myself, how great I can become.
+  * I feel I still have room to improve, I set myself goals to strice for.
+  * I still I haven't reached my expectations of myself.
+* __Visualize greateness__
+  * I've been there so many times, in my mind, just playing tricks with my mind.
+  * That's how I became a master of the game.
+  * Mindfulness, stillness, be in the moment.
+
 [10 Rules](https://www.youtube.com/watch?v=NidqtkXq9Yg):
 * Keep working hard
 * Practice
@@ -90,6 +105,8 @@ Bob Bowman (his coach)
 * Be who you were born to be
 * Have a vision
 * Stop making excuses
+
+  
 
 # [Floyd Mayweather Jr.](https://en.wikipedia.org/wiki/Floyd_Mayweather_Jr.)
 
