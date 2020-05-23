@@ -97,7 +97,7 @@ Sources: [10 habits to Super Success](https://www.danpena.co.uk/10-habits-to-sup
 * Motivation gets you started, habits get you going.
 
 
-5 Credos:
+[5 Credos](https://www.danpena.co.uk/5-credos/):
 * Yesterday’s Dreams are Today’s Realities
   * what you dream about today will be your reality tomorrow
 * Seeing Dreams Ahead
