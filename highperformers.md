@@ -58,8 +58,7 @@ published: true
 
 The Trillion Dollar Man
 
-Sources: [10 habits to Super Success](https://www.danpena.co.uk/10-habits-to-super-success/), [Penaisms](https://www.danpena.co.uk/penaisms-downloads/), [How To Be Super Successful](https://invidio.us/watch?v=ZYk18h1o5T0) and others.
-
+Sources: [10 habits to Super Success](https://www.danpena.co.uk/10-habits-to-super-success/), [Penaisms](https://www.danpena.co.uk/penaisms-downloads/), [How To Be Super Successful](https://invidio.us/watch?v=ZYk18h1o5T0) and others:
 * Practice Daily Affirmations
   * that you cannot accomplish in your lifetime
 * Measure what you do and improve
