@@ -31,6 +31,15 @@ Healthy at 100, John Robbins:
 Michael Lustgarten, PhD, [Interview](https://www.bisu.bio/biohacking-to-100-longevity-lessons-from-15-years-of-self-tracking-ft-michael-lustgarten-phd/)
 >    Eight years of an increased average life expectancy came from people who exercise for 30 minutes a day. And this isn’t, strenuous weightlifting. This was as limited as just walking for 30 minutes a day.
 
+
+[Why You Need To Protect Your Joints If You Want to Live to Be 100](https://invidio.us/watch?v=YY-_ux4ZXp4)
+* Should [train for](https://invidio.us/watch?v=YY-_ux4ZXp4&start=7m46s):
+  - Maintaince of muscle mass
+  - Joint integrity
+  - Flexibility
+  - Functional Movement
+  - Balance
+
 # Sleep
 
 Factors:
