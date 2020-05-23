@@ -78,7 +78,7 @@ Sources: [10 habits to Super Success](https://www.danpena.co.uk/10-habits-to-sup
 * When I fucking tell you I am gonna do something, I fucking do it. I am neither in a comma or fucking dead.
 * Tough times don't last. Tough people do.
 
-
+More:
 * Reading a book, listening to something is NOT taking action. Taking action is just fucking do it!
 * Ability and training to produce high performance children.
 * Show me your friends and I will show your future
