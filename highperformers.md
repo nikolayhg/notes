@@ -54,6 +54,69 @@ published: true
 * Two biggest barriers: our ego and blindspot.
 * Struggle well.
 
+# [Dan Pena](https://www.danpena.co.uk/)
+
+The Trillion Dollar Man
+
+Sources: [10 habits to Super Success](https://www.danpena.co.uk/10-habits-to-super-success/), [Penaisms](https://www.danpena.co.uk/penaisms-downloads/), [How To Be Super Successful](https://invidio.us/watch?v=ZYk18h1o5T0) and others.
+
+* Practice Daily Affirmations
+  * that you cannot accomplish in your lifetime
+* Measure what you do and improve
+  * what gets measured, gets accomplished
+* Success leaves clues, follow them. Model people
+* Practice success before you are successful
+* Conventional wisdom is almost always wrong
+* Get out of your comfort zone. What does not kill me, makes me stronger
+* Have laser beam focus. On the few, not the many
+* Don't give a fuck what other people think or say about you
+* Surround yourself with successful people
+* Take action
+* Minimize regrets, unfulfilled potential
+* Man's greatest burden is unfulfilled potential
+* Play not to lose, but to WIN! Rutheless!
+* Don't have outside activities, slept 10 years in their office
+* When I fucking tell you I am gonna do something, I fucking do it. I am neither in a comma or fucking dead.
+* Tough times don't last. Tough people do.
+
+
+* Reading a book, listening to something is NOT taking action. Taking action is just fucking do it!
+* Ability and training to produce high performance children.
+* Show me your friends and I will show your future
+* Don't set goals for 5-10 years. Set them __as soon as possible__.
+* I will never give up
+* Work 60-80h per week
+* There is never a good time to tell a hard truth, to make a hard decision.
+* Give up social media
+* Workout 30-60mins 3x to 4x/week
+* Make all employee, realtives accountable
+* Calendar in 6-10 minutes increments
+* Believe in extraordinary
+* There is no such thing as work-life balance, only work-life choices and all of them have consequences.
+* Find something you love
+* Motivation gets you started, habits get you going.
+
+
+5 Credos:
+* Yesterday’s Dreams are Today’s Realities
+  * what you dream about today will be your reality tomorrow
+* Seeing Dreams Ahead
+  * See yourself as you want to be
+* Simulation: Practice Within
+* Act as if There are NO Limits to Your Abilities
+* Enthusiasm
+
+
+The most successful mentees:
+* Say the most affirmations, the most vivid, boldacious, based on their goals.
+* Standing desk and walk on a threadmill @4km/h
+* Learn to sleep less, 4-7h
+* work 7 days a week
+* stay focused but pivot early
+* words matter, no ifs, absolute speaking
+
+
+
 # Sports
 
 # [Michael Phelps](https://en.wikipedia.org/wiki/Michael_Phelps)
