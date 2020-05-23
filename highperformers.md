@@ -7,6 +7,7 @@ published: true
 # Entrepreneurs
 
 # [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)
+Engineer, industrial designer and technology entrepreneur. Founder of PayPal, Tesla, SpaceX, Neuralink, OpenAI.
 
 [10 Rules](https://www.youtube.com/watch?v=zX7I_Rw8Q0I):
 * Never give up
@@ -21,6 +22,8 @@ published: true
 * Work super hard.
 
 # [Sam Altman](http://blog.samaltman.com/how-to-be-successful)
+American entrepreneur, investor, programmer. Former president of Y Combinator and now the CEO of OpenAI.
+
 * __Compound yourself__ - you should aim for your life to follow an ever-increasing up-and-to-the-right trajectory. Move towards a career that has a compounding effect. Your rate of learning should always be high. It’s useful to focus on adding another zero to whatever you define as your success metric—money, status, impact on the world, or whatever. Long-term thinking with a broad view of how different systems in the world are going to come together.
 * __Have almost too much self-belief__ - The most successful people I know believe in themselves almost to the point of delusion. Self-belief must be balanced with self-awareness. Truth-seeking is hard and often painful, but it is what separates self-belief from self-delusion.
 * __Learn to think independently__ - Thinking from first principles, finding people to exchange them with is a great way to get better at this. The next step is to find easy, fast ways to test these ideas in the real world.
@@ -34,6 +37,13 @@ published: true
 * __Build a network__ - Great work requires teams. Developing a network of talented people to work with—sometimes closely, sometimes loosely—is an essential part of a great career. The size of the network of really talented people you know often becomes the limiter for what you can accomplish. An effective way to build a network is to help people as much as you can. Develop a reputation for really taking care of the people who work with you. You want to have a reputation for pushing people hard enough that they accomplish more than they thought they could, but not so hard they burn out. Get good at discovering undiscovered talent. Quickly spotting intelligence, drive, and creativity gets much easier with practice.
 * __You get rich by owning things__
 * __Be internally driven__ - The most successful people I know are primarily internally driven; they do what they do to impress themselves and because they feel compelled to make something happen in the world. This is why the question of a person’s motivation is so important. It’s the first thing I try to understand about someone.
+
+# [Naval Ravikant](https://en.wikipedia.org/wiki/Naval_Ravikant)
+Indian American entrepreneur and investor
+
+* [Life Formulas I](https://nav.al/life-formulas-i)
+* [How to Get Rich (without getting lucky)](https://twitter.com/naval/status/1002103360646823936)
+
 
 # Finance
 
