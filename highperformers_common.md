@@ -1,3 +1,5 @@
+Common notes from Elon Musk, Sam Altman, Naval Ravikant, Ray Dalio, Dan Pena, Michael Phelps, Michael Jordan, Floyd Mayweather Jr, Christopher Langan, Alex Honnold.
+
 # Vision
 * have a dream.
 * Really like what you do
