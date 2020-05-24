@@ -17,4 +17,5 @@ Teach kids to:
 - know how money works
   - invest wisely and sustainably
   - increase assets and lower liabilities
+* be entrepreneurs
 - not waste time on entertainment (games, movies, tv, etc)
