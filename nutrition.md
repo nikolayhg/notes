@@ -123,3 +123,6 @@ published: true
   * I do intermittent fasting where for 3 days a week I eat only once a day.
 
 
+# Single Links
+
+* [Healthy Eating Habits: 26 Tactics](https://www.heromovement.net/blog/healthy-eating-habits/)
