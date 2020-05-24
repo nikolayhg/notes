@@ -56,6 +56,7 @@ Train for:
   * 3x 1h sessions/week
 * Aerobic efficiency (Zone 2)
   * min 2h-3h/week
+  * Zone 2: trains your body to burn fats better. Still able to hold a conversation while training.
 * Anaerobic work (Zone 5)
   * not much of it, incorporate into regular activity
 
