@@ -18,4 +18,5 @@ Teach kids to:
   - invest wisely and sustainably
   - increase assets and lower liabilities
 - be entrepreneurs
+- be happy
 - not waste time on entertainment (games, movies, tv, etc)
