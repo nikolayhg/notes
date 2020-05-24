@@ -98,7 +98,7 @@ More:
 * There is never a good time to tell a hard truth, to make a hard decision.
 * Give up social media
 * Workout 30-60mins 3x to 4x/week
-* Make all employee, realtives accountable
+* Make all employees, relatives accountable
 * Calendar in 6-10 minutes increments
 * Believe in extraordinary
 * There is no such thing as work-life balance, only work-life choices and all of them have consequences.
@@ -118,7 +118,7 @@ More:
 
 The most successful mentees:
 * Say the most affirmations, the most vivid, boldacious, based on their goals.
-* Standing desk and walk on a threadmill @4km/h
+* Standing desk and walk on a treadmill @4km/h
 * Learn to sleep less, 4-7h
 * work 7 days a week
 * stay focused but pivot early
