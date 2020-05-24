@@ -1,3 +1,9 @@
+---
+title: Clarity
+date: {}
+published: false
+---
+
 # Clarity
 
 - Assume 100% responsibility for your own level of clarity.
