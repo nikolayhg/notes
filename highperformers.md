@@ -220,28 +220,30 @@ Undefeated 50:0 boxer for 21 years.
 * Strive to be perfect every day
 * Calm mind
 
-# Others
-
-# Environment
-* Peak experiences most likely to occur in rich environments. 
-* Have daily environment to ensure you stay on course and recreates peak experiences.
-* Which environment produces the best outcomes? 
-* Rich environments: high investments, social pressure, high consequence for poor performance, high difficulty, novelty, high standards, urgency.
-
-
-# [Christopher Langan](https://en.wikipedia.org/wiki/Christopher_Langan)
-
-Smart, High IQ.
-* Become good at what information to keep and what to throw out (filter).
-
 
 # [Alex Honnold](https://en.wikipedia.org/wiki/Alex_Honnold)
+American rock climber, free solo ascents of big walls and rock formations
 
 [How I climbed a 3,000-foot vertical cliff - without ropes](https://youtu.be/6iM6M_7wBMc?t=405):
 * Prepared for years.
 * Memorized all moves.
 * Visualized all possible outcomes and prepared his mindset.
 * Automated.
+
+
+# Learners
+
+# [Christopher Langan](https://en.wikipedia.org/wiki/Christopher_Langan)
+scored extremely high on multiple IQ tests.
+
+* Become good at what information to keep and what to throw out (filter).
+
+
+# Environment
+* Peak experiences most likely to occur in rich environments. 
+* Have daily environment to ensure you stay on course and recreates peak experiences.
+* Which environment produces the best outcomes? 
+* Rich environments: high investments, social pressure, high consequence for poor performance, high difficulty, novelty, high standards, urgency.
 
 
 # Flow
