@@ -26,3 +26,7 @@ Websites:
 # Videos
 
 * [What I've Learned](https://www.youtube.com/channel/UCqYPhGiB9tkShZorfgcL2lA) - health according to science.
+
+# Books
+
+* TODO: add my notes from [The Art of Learning: An Inner Journey to Optimal Performance by Josh Waitzkin](https://www.joshwaitzkin.com/the-art-of-learning/)
