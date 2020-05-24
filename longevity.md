@@ -21,7 +21,7 @@ published: true
 * Health actions:
   * See the suggestions of [Maximizing Health](https://www.forever-healthy.org/maximizing-health.html)
 
-# Exercise
+## Exercise
 
 Healthy at 100, John Robbins:
 >    “What if there was a pill that would keep you fit and lean as you aged, while protecting your heart and bones? What if it was as good for your brain as for your body, if it made you stronger, more confident, less susceptible to depression? What if it improved your sleep, mood, and memory and reduced your risk of cancer, all while adding life to your years and years to your life? A great number of studies have found that **exercise** can provide all these benefits and more, even for people who begin late in life. We are learning that much of the physical decline that older people suffer stems not from age but from simple disuse.”
@@ -41,7 +41,7 @@ Michael Lustgarten, PhD, [Interview](https://www.bisu.bio/biohacking-to-100-long
   - Functional Movement
   - Balance
 
-# Sleep
+## Sleep
 
 Factors:
 
@@ -79,6 +79,15 @@ Power Sleep for Peak Performance by James B. Maas:
 
 Eat, Move, Sleep:
 * On average, the best performers slept 8 hours and 36 minutes. The average American, for comparison, gets just 6 hours and 51 minutes on weeknights
+
+# Testing
+
+For Biological Age:
+
+## Blood testing
+
+* [Optimizing Biological Age](https://www.facebook.com/watch/live/?v=171654417441316)
+  * [Biohacking to 100: Longevity lessons from 15 years of self-tracking ft. Michael Lustgarten, PhD](https://www.bisu.bio/biohacking-to-100-longevity-lessons-from-15-years-of-self-tracking-ft-michael-lustgarten-phd/)
 
 # Videos
 
