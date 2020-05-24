@@ -4,10 +4,19 @@ date: {}
 published: true
 ---
 
+TODO: share more info
+
 # Current System
 * [Rich Dad's Cashflow Quadrant](https://www.richdad.com/cashflow-quadrant)
 
-TODO: share more info
+
+## How money works
+
+TODO
+
+## Asset and Liability
+
+TODO
 
 # Sustainable Banking
 
@@ -15,6 +24,9 @@ TODO: share more info
 * [fairfinanceguide.de](https://www.fairfinanceguide.de/ffg-d/)
 * [GLS](http://gls.de/), [Triodos](http://triodos.de/), [Tomorrow](https://www.tomorrow.one/), etc.
 
+# Investing
+
+TODO
 
 # Helping With Money
 
