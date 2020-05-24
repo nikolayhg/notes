@@ -26,3 +26,7 @@ published: true
 # Scientific Process
 
 Observations -> Questions -> Model (Hypothesis) / Explanation -> Prediction -> Testing -> Observations
+
+# Rationality
+
+* [Twelve Virtues of Rationality](http://yudkowsky.net/rational/virtues/)
