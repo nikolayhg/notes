@@ -8,6 +8,7 @@ published: true
 
 * [Forever Healthy](https://www.forever-healthy.org/home.html) - private, non-profit initiative with the mission to enable people to vastly extend their healthy lifespan, based in Karlsruhe, Germany.
   * [Rejuvenation Now](https://www.forever-healthy.org/rejuvenation-now.html) - identify potential rejuvenation therapies and systematically evaluates them on their risks, benefits, procedures and potential application
+    * [Skin Rejuvenation by Low-Level Light Therapy (LLLT)](https://brain.forever-healthy.org/display/EN/Skin+Rejuvenation+by+Low-Level+Light+Therapy)
   * [Maximizing Health](https://www.forever-healthy.org/maximizing-health.html) - holistically review the world's leading medical knowledge on various health-related topics and turn it into actionable information to empower informed decisions about health and well-being.
 * [Undoing Aging](https://www.undoing-aging.org/) - conference in Berlin, Germany
 * [Long Long Life](http://www.longlonglife.org/en/)
