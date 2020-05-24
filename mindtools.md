@@ -102,6 +102,7 @@ Source: https://taylorpearson.me/fast/
 * Use Calendly to schedule meetings.
 * Use a text expander to save commonly used phrases (like your address or commonly typed URLs).
 * Music: [brain.fm](https://www1.brain.fm), [noisli](https://www.noisli.com/)
+* Time constrain things that are important but not urgent, thus making them urgent. 
 
 # Mental Models
 
