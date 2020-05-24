@@ -27,6 +27,14 @@ See the suggestions in [Maximizing Health by Forever Healthy](https://www.foreve
 
 ## Exercise
 
+### Exercise Advice by Forever Healthy
+
+Source: [Physical Activity](https://brain.forever-healthy.org/display/EN/Physical+Activity)
+* We need to build muscle to reach peak health
+  * Advantages: most efficient way to lose weight, better cardio, strengthens the cardio-vascular system, 
+* Recommended Book: [Body by Science](https://www.amazon.com/Body-Science-Research-Strength-Training/dp/0071597174/)
+  * Videos: [Doug McGuff MD. Instructs an Intense Workout](https://invidio.us/watch?v=Tvq6wxsWiLg)
+
 ### Exercise Advice by Peter Attia
 
 Do a lot of consistent preparatory work in the decades prior your 70s.
