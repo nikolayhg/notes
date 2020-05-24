@@ -18,6 +18,11 @@ Websites:
 * [SamThomasDavies](https://www.samuelthomasdavies.com/book-summaries/) - books in 3 sentences, 5 big ideas, chapters summaries.
 * [optimize.me](https://www.optimize.me/) - holistic summaries on health, personal development, habits, etc.
 
+# Learning methods
+
+* TODO: add Timm Ferris' method [DiSSS (deconstruction, selection, sequencing, and stakes)](https://tim.blog/2016/10/06/the-art-and-science-of-learning-anything-faster/), [Link2](https://tim.blog/2013/05/20/accelerated-learning-techniques/)
+
+
 # Videos
 
 * [What I've Learned](https://www.youtube.com/channel/UCqYPhGiB9tkShZorfgcL2lA) - health according to science.
