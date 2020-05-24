@@ -51,7 +51,7 @@ Do a lot of consistent preparatory work in the decades prior your 70s.
 
 Train for:
 * Stability
-  * >10mins/day, >1h/week
+  * \>10mins/day, >1h/week
 * Strength
   * 3x 1h sessions/week
 * Aerobic efficiency
