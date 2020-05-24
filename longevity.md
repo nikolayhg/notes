@@ -27,24 +27,6 @@ See the suggestions in [Maximizing Health by Forever Healthy](https://www.foreve
 
 ## Exercise
 
-Healthy at 100, John Robbins:
->    “What if there was a pill that would keep you fit and lean as you aged, while protecting your heart and bones? What if it was as good for your brain as for your body, if it made you stronger, more confident, less susceptible to depression? What if it improved your sleep, mood, and memory and reduced your risk of cancer, all while adding life to your years and years to your life? A great number of studies have found that **exercise** can provide all these benefits and more, even for people who begin late in life. We are learning that much of the physical decline that older people suffer stems not from age but from simple disuse.”
-
-* "The researchers found that the frequency of colds among people who exercised five or more days a week was up to 46 percent less than that of people who were largely sedentary—that is, who exercised only one day or less per week." Super Immunity by JOEL FUHRMAN
-* aerobics not only releases the endorphins that can combat a down mood but also promotes the growth of the brain (Dan Siegel’s Mindsight)
-
-Michael Lustgarten, PhD, [Interview](https://www.bisu.bio/biohacking-to-100-longevity-lessons-from-15-years-of-self-tracking-ft-michael-lustgarten-phd/)
->    Eight years of an increased average life expectancy came from people who exercise for 30 minutes a day. And this isn’t, strenuous weightlifting. This was as limited as just walking for 30 minutes a day.
-
-
-[Why You Need To Protect Your Joints If You Want to Live to Be 100](https://invidio.us/watch?v=YY-_ux4ZXp4)
-* Should [train for](https://invidio.us/watch?v=YY-_ux4ZXp4&start=7m46s):
-  - Maintaince of muscle mass
-  - Joint integrity
-  - Flexibility
-  - Functional Movement
-  - Balance
-
 ### Exercise Advice by Peter Attia
 
 Do a lot of consistent preparatory work in the decades prior your 70s.
@@ -64,6 +46,26 @@ Train for:
 
 More:
 * exercise every single day
+
+### Other Exercise Notes
+Healthy at 100, John Robbins:
+>    “What if there was a pill that would keep you fit and lean as you aged, while protecting your heart and bones? What if it was as good for your brain as for your body, if it made you stronger, more confident, less susceptible to depression? What if it improved your sleep, mood, and memory and reduced your risk of cancer, all while adding life to your years and years to your life? A great number of studies have found that **exercise** can provide all these benefits and more, even for people who begin late in life. We are learning that much of the physical decline that older people suffer stems not from age but from simple disuse.”
+
+* "The researchers found that the frequency of colds among people who exercised five or more days a week was up to 46 percent less than that of people who were largely sedentary—that is, who exercised only one day or less per week." Super Immunity by JOEL FUHRMAN
+* aerobics not only releases the endorphins that can combat a down mood but also promotes the growth of the brain (Dan Siegel’s Mindsight)
+
+Michael Lustgarten, PhD, [Interview](https://www.bisu.bio/biohacking-to-100-longevity-lessons-from-15-years-of-self-tracking-ft-michael-lustgarten-phd/)
+>    Eight years of an increased average life expectancy came from people who exercise for 30 minutes a day. And this isn’t, strenuous weightlifting. This was as limited as just walking for 30 minutes a day.
+
+
+[Why You Need To Protect Your Joints If You Want to Live to Be 100](https://invidio.us/watch?v=YY-_ux4ZXp4)
+* Should [train for](https://invidio.us/watch?v=YY-_ux4ZXp4&start=7m46s):
+  - Maintaince of muscle mass
+  - Joint integrity
+  - Flexibility
+  - Functional Movement
+  - Balance
+
 
 ## Sleep
 
