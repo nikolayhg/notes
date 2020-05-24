@@ -170,11 +170,11 @@ The Jordan Rules for Success, [Part 1](https://invidio.us/watch?v=wQq-Nnas-Ro), 
   * I am competing against myself, how great I can become.
   * I feel I still have room to improve, I set myself goals to strice for.
   * I still I haven't reached my expectations of myself.
-* __Visualize greateness__
+* __Visualize greatness__
   * I've been there so many times, in my mind, just playing tricks with my mind.
   * That's how I became a master of the game.
   * Mindfulness, stillness, be in the moment.
-* __Push those around you to greateness__
+* __Push those around you to greatness__
   * Push yourself more than the others.
   * He was tough with his teammates. Hard on them, push them, bring out the best of them.
 * __Be in the best physical shape of everyone__
