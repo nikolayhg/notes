@@ -17,9 +17,13 @@ published: true
 
 # Actions
 
-* Rejuvenation actions: to be clarified
-* Health actions:
-  * See the suggestions of [Maximizing Health](https://www.forever-healthy.org/maximizing-health.html)
+## Rejuvenation actions
+
+to be clarified
+
+## Health actions
+
+See the suggestions in [Maximizing Health by Forever Healthy](https://www.forever-healthy.org/maximizing-health.html).
 
 ## Exercise
 
