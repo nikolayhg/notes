@@ -54,9 +54,9 @@ Train for:
   * \>10mins/day, >1h/week
 * Strength
   * 3x 1h sessions/week
-* Aerobic efficiency
+* Aerobic efficiency (Zone 2)
   * min 2h-3h/week
-* Anaerobic work
+* Anaerobic work (Zone 5)
   * not much of it, incorporate into regular activity
 
 More:
