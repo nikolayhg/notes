@@ -37,6 +37,7 @@ Source: [Physical Activity](https://brain.forever-healthy.org/display/EN/Physica
   * Recommended Book: [Body by Science](https://www.amazon.com/Body-Science-Research-Strength-Training/dp/0071597174/)
   * Videos: [Doug McGuff MD. Instructs an Intense Workout](https://invidio.us/watch?v=Tvq6wxsWiLg)
 * Body Weight Training
+  * Recommended Book: [You Are Your Own Gym](https://www.amazon.com/You-Are-Your-Own-Gym/dp/0345528581/)
 
 ### Exercise Advice by Peter Attia
 
