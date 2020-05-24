@@ -17,10 +17,9 @@ published: true
 
 # Actions
 
-
-We can lengthen and strengthen our **telomeres**:
-* **Breathing deeply** is actually one of the quickest ways to drop out of super-busy fight-or-flight mode and give your telomeres some rest and lengthening-love
-* **Reduce / eliminate the highly processed, sugary foods and sweetened drinks.** (We’re looking at you, packaged cakes, candies, cookies, and sodas.).
+* Rejuvenation actions: to be clarified
+* Health actions:
+  * See the suggestions of [Maximizing Health](https://www.forever-healthy.org/maximizing-health.html)
 
 # Exercise
 
