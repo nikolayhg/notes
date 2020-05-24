@@ -47,11 +47,20 @@ Michael Lustgarten, PhD, [Interview](https://www.bisu.bio/biohacking-to-100-long
 
 ### Exercise Advice by Peter Attia
 
+Do a lot of consistent preparatory work in the decades prior your 70s.
+
 Train for:
 * Stability
+  * >10mins/day, >1h/week
 * Strength
+  * 3x 1h sessions/week
 * Aerobic efficiency
-* Anaerobic performance
+  * min 2h/week
+* Anaerobic work
+  * not much of it, incorporate into regular activity
+
+More:
+* exercise every single day
 
 ## Sleep
 
