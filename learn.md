@@ -25,7 +25,6 @@ Websites:
 
 # Videos
 
-* [What I've Learned](https://www.youtube.com/channel/UCqYPhGiB9tkShZorfgcL2lA) - health according to science.
 
 # Books
 
