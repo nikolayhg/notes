@@ -56,7 +56,9 @@ Train for:
   * 3x 1h sessions/week
 * Aerobic efficiency (Zone 2)
   * min 2h-3h/week
-  * Zone 2: trains your body to burn fats better. Still able to hold a conversation while training.
+  * Zone 2
+    * still able to hold a conversation while training
+    * stimulates stimulate Type 1 muscle fibers -> mitochondrial growth and function -> ability to utilize fat and preserve glycogen AND increase lactate clearance capacity
 * Anaerobic work (Zone 5)
   * not much of it, incorporate into regular activity
 
