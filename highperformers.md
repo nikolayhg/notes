@@ -222,6 +222,13 @@ Undefeated 50:0 boxer for 21 years.
 
 # Others
 
+# Environment
+* Peak experiences most likely to occur in rich environments. 
+* Have daily environment to ensure you stay on course and recreates peak experiences.
+* Which environment produces the best outcomes? 
+* Rich environments: high investments, social pressure, high consequence for poor performance, high difficulty, novelty, high standards, urgency.
+
+
 # [Christopher Langan](https://en.wikipedia.org/wiki/Christopher_Langan)
 
 Smart, High IQ.
