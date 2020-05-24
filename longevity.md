@@ -6,9 +6,9 @@ published: true
 
 # Links
 
-* [Forever Healthy](https://www.forever-healthy.org/home.html)
-  * [Rejuvenation Now](https://www.forever-healthy.org/rejuvenation-now.html)
-  * [Maximizing Health](https://www.forever-healthy.org/maximizing-health.html)
+* [Forever Healthy](https://www.forever-healthy.org/home.html) - private, non-profit initiative with the mission to enable people to vastly extend their healthy lifespan, based in Karlsruhe, Germany.
+  * [Rejuvenation Now](https://www.forever-healthy.org/rejuvenation-now.html) - identify potential rejuvenation therapies and systematically evaluates them on their risks, benefits, procedures and potential application
+  * [Maximizing Health](https://www.forever-healthy.org/maximizing-health.html) - holistically review the world's leading medical knowledge on various health-related topics and turn it into actionable information to empower informed decisions about health and well-being.
 * [Undoing Aging](https://www.undoing-aging.org/) - conference in Berlin, Germany
 * [Long Long Life](http://www.longlonglife.org/en/)
 * [Lifespan.io](https://lifespan.io/) - articles, interviews. LEAF is a 501(c)(3) non-profit organization dedicated to promoting increased healthy human lifespan through fiscally sponsoring longevity research projects, and raising awareness regarding the societal benefits of life extension.
