@@ -216,7 +216,7 @@ Undefeated 50:0 boxer for 21 years.
 * Outdo the training of your opponents
 * Work daily, beyond schedule. Never get tired. Continuous state of training
 * To be the best you got to work overtime
-* Goes to work while his oppononets are sleeping
+* Goes to work while his opponents are sleeping
 * Strive to be perfect every day
 * Calm mind
 
