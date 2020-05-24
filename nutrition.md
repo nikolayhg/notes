@@ -19,6 +19,7 @@ published: true
 * [Frontiers in Nutrition](https://www.frontiersin.org/journals/nutrition) -  peer-reviewed open access scientific journal on Nutrition.
 * [BMJ](https://www.bmj.com/) - provider of journals, clinical decision support, events and medical education, owned subsidiary of the British Medical Association.
 * [The American Journal of Clinical Nutrition](https://academic.oup.com/ajcn) - peer-reviewed, primary research journal in nutrition and dietetics, obesity, vitamins and minerals, nutrition and disease, and energy metabolism.
+* [Obesity and Energetics Offerings](https://www.obesityandenergetics.org/) - categories of Basic, Drugs, and Caloric and Dietary Restriction. Recommended by Peter Attia.
 
 # Understanding Science
 
