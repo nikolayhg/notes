@@ -55,7 +55,7 @@ Train for:
 * Strength
   * 3x 1h sessions/week
 * Aerobic efficiency
-  * min 2h/week
+  * min 2h-3h/week
 * Anaerobic work
   * not much of it, incorporate into regular activity
 
