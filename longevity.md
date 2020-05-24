@@ -6,7 +6,9 @@ published: true
 
 # Links
 
-* [Forever Healthy - Personal Longevity Strategy](https://brain.forever-healthy.org)
+* [Forever Healthy](https://www.forever-healthy.org/home.html)
+  * [Rejuvenation Now](https://www.forever-healthy.org/rejuvenation-now.html)
+  * [Maximizing Health](https://www.forever-healthy.org/maximizing-health.html)
 * [Long Long Life](http://www.longlonglife.org/en/)
 * [Undoing Aging](https://www.undoing-aging.org/) - conference in Berlin, Germany
 * [Lifespan.io](https://lifespan.io/) - articles, interviews. LEAF is a 501(c)(3) non-profit organization dedicated to promoting increased healthy human lifespan through fiscally sponsoring longevity research projects, and raising awareness regarding the societal benefits of life extension.
