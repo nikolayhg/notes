@@ -9,14 +9,15 @@ published: true
 - what you want?
 - assume 100% responsibility for your own level of clarity.
 
+
 Questions:
 * What do I __really__ want?
 * If I leave what I love, do I come back to it?
 * What if I had only had 6 months left to live?
 * What is __my best version__? 
   * Imagine the last day of your life. And you meet the best version of you, that you could have become. See and feel the difference between you and your best. Ask questions.
-
 * Create clarity by distancing yourself from the research subject, observing it without limiting views and from expanding views.
+
 
 # Plan
 
