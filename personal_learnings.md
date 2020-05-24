@@ -31,7 +31,7 @@ No matter what you seek, it is possible to find it and you can find or create it
 
 If you go to the deepest root of desire - often ultimate knowledge, feeling, state - you will recognize that even once this object of desire if found, it will be lost, sooner or later. So what are you left with after that? With that which was and is always with you - You. If you used words to describe You, they could be: experiencing itself, life itself, the most constant stability in experience, the absolute peace, absolute acceptance, unconditional choiceless love, mystery, simplicity.
 
-__Example__: you seek happiness/peace/whatever from others, experts, books or yourself, but the happiness that came, went away. During the whole process You was there.
+__Example__: you seek happiness/peace/whatever from others, experts, books or yourself, but the happiness that came, went away. During the whole process You were there.
 
 # The root cause of suffering is inappropriate understanding and application of how things work
 Can be observed in practical work, relationships, and all our experiences. The more aligned our understanding and application of how things work is, the better we and our creations are.
