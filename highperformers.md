@@ -153,7 +153,7 @@ Bob Bowman (his coach)
   * have a clear plan for success and achieving their goals.
   * value the process of success more than any particular outcome.
   * welcome challenges as a means to learn and grow.
-  * produce normal and predictable performances in very abnormal and unpredictble environments.
+  * produce normal and predictable performances in very abnormal and unpredictable environments.
   * rehearse success on a daily basis, mentally, physically and emotionally.
 
 # [Michael Jordan](https://en.wikipedia.org/wiki/Michael_Jordan)
