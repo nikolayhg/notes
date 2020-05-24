@@ -45,6 +45,14 @@ Michael Lustgarten, PhD, [Interview](https://www.bisu.bio/biohacking-to-100-long
   - Functional Movement
   - Balance
 
+### Exercise Advice by Peter Attia
+
+Train for:
+* Stability
+* Strength
+* Aerobic efficiency
+* Anaerobic performance
+
 ## Sleep
 
 Factors:
