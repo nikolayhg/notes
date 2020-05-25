@@ -122,6 +122,9 @@ published: true
   * One shouldn’t add any salt (increases blood pressure) to food.
   * I do intermittent fasting where for 3 days a week I eat only once a day.
 
+# Recipies
+
+* [organicbiomama](https://organicbiomama.com/) - recipies and diy health
 
 # Single Links
 
