@@ -18,6 +18,8 @@ TODO
 
 TODO
 
+## Taxes
+
 # Sustainable Banking
 
 ## Germany
@@ -27,6 +29,8 @@ TODO
 # Investing
 
 TODO
+
+## Scams
 
 # Helping With Money
 
