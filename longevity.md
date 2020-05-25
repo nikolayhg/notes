@@ -13,6 +13,7 @@ published: true
 * [Long Long Life](http://www.longlonglife.org/en/)
 * [Lifespan.io](https://lifespan.io/) - articles, interviews. LEAF is a 501(c)(3) non-profit organization dedicated to promoting increased healthy human lifespan through fiscally sponsoring longevity research projects, and raising awareness regarding the societal benefits of life extension.
 * [Peter Attia, MD](https://peterattiamd.com/) - strategies and tactics to increase lifespan, healthspan, and well-being, and optimize cognitive, physical, and emotional health
+* [Josh Mitteldorf](https://joshmitteldorf.scienceblog.com/) - author of [2 aging books](https://www.amazon.com/Josh-Mitteldorf/e/B01LP7V87U) and [agingadvice.org](http://agingadvice.org/), evolutionary biology, Ph.D. in astrophysics.
 
 ## DIY Bloggers
 
