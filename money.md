@@ -31,3 +31,7 @@ TODO
 # Helping With Money
 
 * [Effective Altruism](https://www.effectivealtruism.org/). [Introduction](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/), [Resources](https://www.effectivealtruism.org/resources/), [Groups](https://eahub.org/groups/), [Connect](https://resources.eahub.org/learn/connect/)
+* Much more
+* Questions:
+  * what do I really care about?
+  * what would have the highest impact for as many people/beings as possible for as long as possible?
