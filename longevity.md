@@ -16,6 +16,9 @@ published: true
   * [The Rejuvenation Roadmap](https://www.lifespan.io/road-maps/the-rejuvenation-roadmap/) - compile the most promising therapies and technologies in development and chart their progress in one easy to read format
 * [Peter Attia, MD](https://peterattiamd.com/) - strategies and tactics to increase lifespan, healthspan, and well-being, and optimize cognitive, physical, and emotional health
 * [Josh Mitteldorf](https://joshmitteldorf.scienceblog.com/) - author of [2 aging books](https://www.amazon.com/Josh-Mitteldorf/e/B01LP7V87U) and [agingadvice.org](http://agingadvice.org/), evolutionary biology, Ph.D. in astrophysics.
+* [aginganalytics](https://www.aginganalytics.com/) - world’s premier provider of industry analytics on the topics of Longevity, Precision Preventive Medicine and Economics of Aging. In 2014, it successfully predicted the boom in industry development and financing rounds that occurred in 2017-2018, three years in advance.
+  * [1000 Longevity Leaders](https://www.longevity.international/1000-longevity-leaders)
+  * [Supercentenarians Landscape Overview 2020](https://www.aginganalytics.com/supercentenarians)
 
 ## DIY Bloggers
 
