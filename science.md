@@ -34,3 +34,7 @@ Observations -> Questions -> Model (Hypothesis) / Explanation -> Prediction -> T
 # Links
 
 * [Center for Open Science](https://www.cos.io/) - mission to increase openness, integrity, and reproducibility of research. 
+
+# Single Links
+
+* [How Life Sciences Actually Work: Findings of a Year-Long Investigation](https://guzey.com/how-life-sciences-actually-work/)
