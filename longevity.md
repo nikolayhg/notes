@@ -14,6 +14,10 @@ published: true
 * [Lifespan.io](https://lifespan.io/) - articles, interviews. LEAF is a 501(c)(3) non-profit organization dedicated to promoting increased healthy human lifespan through fiscally sponsoring longevity research projects, and raising awareness regarding the societal benefits of life extension.
 * [Peter Attia, MD](https://peterattiamd.com/) - strategies and tactics to increase lifespan, healthspan, and well-being, and optimize cognitive, physical, and emotional health
 
+## Longevity News
+
+* [Longevity Reporter](https://twitter.com/NewsInLongevity/)
+* [Fight Aging](https://www.fightaging.org/)
 
 # Actions
 
