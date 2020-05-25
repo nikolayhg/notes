@@ -16,7 +16,7 @@ published: true
 
 ## DIY Bloggers
 
-* [anti-agingfirewalls](https://www.anti-agingfirewalls.com/) - by Vince Giuliano, 76 years old (in 2020).  Computer scientiest, focused now on longevity.
+* [anti-agingfirewalls](https://www.anti-agingfirewalls.com/) - by Vince Giuliano, 90 years old (in 2019).  Computer scientiest, focused now on longevity.
 
 ## Longevity News
 
