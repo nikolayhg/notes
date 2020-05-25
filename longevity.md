@@ -19,7 +19,7 @@ published: true
 * [aginganalytics](https://www.aginganalytics.com/) - world’s premier provider of industry analytics on the topics of Longevity, Precision Preventive Medicine and Economics of Aging. In 2014, it successfully predicted the boom in industry development and financing rounds that occurred in 2017-2018, three years in advance.
   * [1000 Longevity Leaders](https://www.longevity.international/1000-longevity-leaders)
   * [Supercentenarians Landscape Overview 2020](https://www.aginganalytics.com/supercentenarians)
-    * Key Findings that contribute to Longevity: Relationships (social inclusion), socio-economic status, brain activity (lower neural activity), physical activity, genetic factors, healthy diet, conscientious (organized, goal oriented) 
+    * Key Findings that contribute to Longevity: Relationships (social inclusion), socio-economic status, brain activity (lower neural activity), physical activity, genetic factors, healthy diet, conscientious (organized, goal oriented)
 
 ## DIY Bloggers
 
@@ -27,8 +27,9 @@ published: true
 
 ## Longevity News
 
-* [Longevity Reporter](https://twitter.com/NewsInLongevity/)
 * [Fight Aging](https://www.fightaging.org/)
+* [Chris Pollyanna's Longevity Newsletter](https://www.longecity.org/forum/blog/221-chris-pollyannas-longevity-newsletter/)
+* [Longevity Reporter](https://twitter.com/NewsInLongevity/)
 
 # Actions
 
