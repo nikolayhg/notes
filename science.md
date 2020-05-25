@@ -30,3 +30,7 @@ Observations -> Questions -> Model (Hypothesis) / Explanation -> Prediction -> T
 # Rationality
 
 * [Twelve Virtues of Rationality](http://yudkowsky.net/rational/virtues/)
+
+# Links
+
+* [Center for Open Science](https://www.cos.io/) - mission to increase openness, integrity, and reproducibility of research. 
