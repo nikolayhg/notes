@@ -26,4 +26,5 @@ Teach kids to:
 - how to spend their time effectively
 - see the big picture, go into details, recognize relationships, system thinking
 - be disciplined
+- live healthy: healthy food, exercise, sleep, etc.
 - not waste time on entertainment (games, movies, tv, etc)
