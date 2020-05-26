@@ -20,5 +20,6 @@ Teach kids to:
   - increase assets and lower liabilities
 - be entrepreneurs
 - be happy
-- learn about current local and world issues and create solutions 
+- learn about current local and world issues and create solutions
+- be in/near nature when possible
 - not waste time on entertainment (games, movies, tv, etc)
