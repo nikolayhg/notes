@@ -22,4 +22,6 @@ Teach kids to:
 - be happy
 - learn about current local and world issues and create solutions
 - be in/near nature when possible
+- how to use and NOT to use computers
+- how to spend their time effectively
 - not waste time on entertainment (games, movies, tv, etc)
