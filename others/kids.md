@@ -24,4 +24,6 @@ Teach kids to:
 - be in/near nature when possible
 - how to use and NOT to use computers
 - how to spend their time effectively
+- see the big picture, go into details, recognize relationships, system thinking
+- be disciplined
 - not waste time on entertainment (games, movies, tv, etc)
