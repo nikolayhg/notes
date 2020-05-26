@@ -28,3 +28,7 @@ Teach kids to:
 - be disciplined
 - live healthy: healthy food, exercise, sleep, etc.
 - not waste time on entertainment (games, movies, tv, etc)
+
+# Videos
+
+* [Hackschooling makes me happy](https://www.youtube.com/watch?v=h11u3vtcpaY)
