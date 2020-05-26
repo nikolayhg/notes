@@ -12,6 +12,7 @@ Teach kids to:
 - be bold
 - bulid self-confidence
 - learn quickly and efficiently
+- think independently
 - create habits with longterm leverage effect
 - grow healthy: exercise, healthy food, sleep, nature
 - know how money works
@@ -19,4 +20,5 @@ Teach kids to:
   - increase assets and lower liabilities
 - be entrepreneurs
 - be happy
+- learn about current local and world issues and create solutions 
 - not waste time on entertainment (games, movies, tv, etc)
