@@ -22,7 +22,7 @@ Engineer, industrial designer and technology entrepreneur. Founder of PayPal, Te
 * Work super hard.
 
 # [Sam Altman](http://blog.samaltman.com/how-to-be-successful)
-American entrepreneur, investor, programmer. Former president of Y Combinator and now the CEO of OpenAI.
+American entrepreneur, investor, programmer. Former president of Y Combinator and now the CEO of OpenAI. [Blog](https://blog.samaltman.com/)
 
 * __Compound yourself__ - you should aim for your life to follow an ever-increasing up-and-to-the-right trajectory. Move towards a career that has a compounding effect. Your rate of learning should always be high. It’s useful to focus on adding another zero to whatever you define as your success metric—money, status, impact on the world, or whatever. Long-term thinking with a broad view of how different systems in the world are going to come together.
 * __Have almost too much self-belief__ - The most successful people I know believe in themselves almost to the point of delusion. Self-belief must be balanced with self-awareness. Truth-seeking is hard and often painful, but it is what separates self-belief from self-delusion.
