@@ -20,6 +20,8 @@ published: true
   * [1000 Longevity Leaders](https://www.longevity.international/1000-longevity-leaders)
   * [Supercentenarians Landscape Overview 2020](https://www.aginganalytics.com/supercentenarians)
     * Key Findings that contribute to Longevity: Relationships (social inclusion), socio-economic status, brain activity (lower neural activity), physical activity, genetic factors, healthy diet, conscientious (organized, goal oriented)
+* Collection of Longevity Links:
+  * [fightaging](https://www.fightaging.org/) - on the right side of the page: First Steps, Root Causes, Required Reading, Non-Profit Initiatives, The Longevity Industry, Benefiting from Medical Research, Objections Answered, Blogs of Interest. All under CC BY 4.0 license.
 
 ## DIY Bloggers
 
