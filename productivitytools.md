@@ -8,9 +8,9 @@ published: true
 Rich environments:
 * high standards
 * high investments
-* social pressure
 * high consequence for poor performance
 * urgency
+* social pressure
 * high difficulty
 * novelty
 
