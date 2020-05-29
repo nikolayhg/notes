@@ -4,6 +4,16 @@ date: {}
 published: true
 ---
 
+# Environment
+Rich environments:
+* high standards
+* high investments
+* social pressure
+* high consequence for poor performance
+* urgency
+* high difficulty
+* novelty
+
 # Timers
 
 * [http://e.ggtimer.com](http://e.ggtimer.com/) - simple online countdown timer. E.g: [http://e.ggtimer.com/5minutes](http://e.ggtimer.com/5minutes)
