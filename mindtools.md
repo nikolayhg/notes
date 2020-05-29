@@ -58,6 +58,20 @@ Questions:
 * Don’t make decisions if you feel distracted.
 * Plan daily decisions the night before.
 
+## DM➝Outcome Analysis
+
+* DM is more probabilistic than deterministic. Analyze more probabilities.
+* Good/Bad DM➝Outcome:
+  * (GD➝GO) good decision, good outcome
+  * (GD➝BO) good decision, bad outome
+  * (BD➝GO) bad decision, good outcome
+  * (BD➝BO) bad decision, bad outcome
+* Levels of DM➝Outcome analysis:
+  1. Only GD➝GO and GD➝BO
+  2. Add BD➝BO analysis
+  3. All of them: GD➝GO/BO, BD➝GO/BO
+  4. All of them (esepcially GD➝GO): How could it be better/best? Go beyond past, personality and known and unknown limitations.
+
 ## Others on DM
 
 * [Smart Decisions](https://fs.blog/smart-decisions/) by Farnam Street.
