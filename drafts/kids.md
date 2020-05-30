@@ -13,7 +13,7 @@ Teach kids to:
 - build self-confidence
 - learn quickly and efficiently
 - think independently
-- create habits with longterm leverage effect
+- create habits with long-term leverage effect
 - live healthy: exercise, healthy food, sleep, nature
 - know how money works
   - invest wisely and sustainably
