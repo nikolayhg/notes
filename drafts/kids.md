@@ -10,7 +10,7 @@ Teach kids to:
 
 - dream and create their dreams
 - be bold
-- bulid self-confidence
+- build self-confidence
 - learn quickly and efficiently
 - think independently
 - create habits with longterm leverage effect
