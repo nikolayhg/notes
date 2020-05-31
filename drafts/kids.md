@@ -14,6 +14,7 @@ Teach kids to:
 - learn quickly and efficiently
 - think independently
 - create habits with long-term leverage effect
+- delay gratification
 - live healthy: exercise, healthy food, sleep, nature
 - know how money works
   - invest wisely and sustainably
