@@ -25,6 +25,10 @@ published: true
 * [The Long Now Foundation](http://longnow.org/)
 * [DailyOverview](https://twitter.com/DOverview) - showing Earth from above to inspire the Overview Effect, highlight human impact, and change the way we see our planet.
 
+## Long Term Thinking
+
+transcending the everyday, the short term, the individual, the human, ...
+
 # Podcasts
 
 * [Exponential Wisdom – Podcast by Peter Diamandis and Dan Sullivan](http://podcast.diamandis.com/)
