@@ -1,7 +1,7 @@
 ---
 title: Kids
 date: {}
-published: false
+published: true
 ---
 
 # Teach
