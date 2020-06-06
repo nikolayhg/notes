@@ -13,7 +13,7 @@ published: true
 * Ensure there is fresh air while sleeping
 * Don't eat or exercise heavily 2-4h before sleep
 * Get enough sunlight during the day
-* Filter out blue light when it gets dark with
+* Filter out blue light when it gets dark with:
   * Software: [Flux](https://justgetflux.com/) for Windows, [Redshift](http://jonls.dk/redshift/) for Linux, [RedMoon](https://f-droid.org/en/packages/com.jmstudios.redmoon/) for Android.
   * Glasses
 
@@ -30,8 +30,8 @@ published: true
 ### After Sleep
 * Wake up at the same time
 * Reflection:
-  * How long and how well did I slept?
-  * How do I feel`now?
+  * How long and how well did I sleep?
+  * How do I feel now?
 
 # Other notes
 
