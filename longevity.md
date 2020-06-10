@@ -33,6 +33,20 @@ published: true
 * [Chris Pollyanna's Longevity Newsletter](https://www.longecity.org/forum/blog/221-chris-pollyannas-longevity-newsletter/)
 * [Longevity Reporter](https://twitter.com/NewsInLongevity/)
 
+# Aging explained
+
+[Aubrey De Grey](https://en.wikipedia.org/wiki/Aubrey_de_Grey): Aging as accumulation of damage.
+
+| Damage type   | Maintenance approach  |
+|----------|:-------------:|
+| Cell loss, cell atrophy | Replace, using stem cells |
+| Division-obsessed cells | Reinforce, using telomere control |
+| Death-resistant cells | Remove, using suicide genes etc |
+| Mitochondrial mutations | Reinforce, using backup copies |
+| Intracellular waste products | Remove, using foreign enzymes |
+| Extracellular waste products | Remove, using immune system |
+| Extracellular matrix stiffening | Repair, using crosslink-breakers |
+
 # Actions
 
 ## Rejuvenation actions
