@@ -25,7 +25,9 @@ TODO: share more info
 
 ## How money works
 
-TODO
+### Videos
+
+* [Banking 101 by Positive Money](https://www.youtube.com/playlist?list=PLyl80QTKi0gPBcb32paMvXxcq7UUeJskV) - youtube playlist
 
 ## Asset and Liability
 
