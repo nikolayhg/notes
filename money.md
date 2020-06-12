@@ -8,10 +8,10 @@ TODO: share more info
 
 # Current System
 * [Rich Dad's Cashflow Quadrant](https://www.richdad.com/cashflow-quadrant):
-  * Employee: wants security, no risk, lowest paid. Money growth = work more hours, linearly higher salary. Tax: usually the highest.
-  * Self-employed: some security, less risk, better paid. Money growth = work more hours, linearly higher salary. Tax: as employees or lower.
-  * Business owner: more risk. Money growth = successful business, linear salary growth to exponential shares growth. Tax: usually lower than employees.
-  * Investor: little to high risk, best paid. Money growth = exponential. Tax: usually the lowest.
+  * **Employee**: wants security, no risk, lowest paid. Money growth = work more hours, linearly higher salary. Tax: usually the highest.
+  * **Self-employed**: some security, less risk, better paid. Money growth = work more hours, linearly higher salary. Tax: as employees or lower.
+  * **Business owner**: more risk. Money growth = successful business, linear salary growth to exponential shares growth. Tax: usually lower than employees.
+  * **Investor**: little to high risk, best paid. Money growth = exponential. Tax: usually the lowest.
 
 
 ## How money works
