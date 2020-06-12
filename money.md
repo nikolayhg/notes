@@ -14,7 +14,7 @@ TODO: share more info
   * **Business owner**: more risk. Money growth = successful business, linear salary growth to exponential shares growth. Tax: usually lower than employees.
   * **Investor**: little to high risk, best paid. Money growth = exponential. Tax: usually the lowest.
 * [Follow The Money Pyramid](http://www.thrivemovement.com/followthemoneypyramid) - an (speculative) attempt to give an overview where the most money is and who rules over how the financial systems work:
-  * [**Financial Elite**] - speculative who, what, why.
+  * **Financial Elite** - speculative who, what, why.
   * [**Bank for International Settlements**](https://en.wikipedia.org/wiki/Bank_for_International_Settlements) - set reserve requirements, prime counterparty for central banks, little transparency.
   * **International Central Banks** - [**World Bank**](https://en.wikipedia.org/wiki/World_Bank) and [**International Monetary Fund (IMF)**](https://en.wikipedia.org/wiki/International_Monetary_Fund)
   * **National Central Banks** - set interest rates, determine the amount of money in circulation, lend to governments at interest.
