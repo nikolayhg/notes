@@ -58,4 +58,4 @@ TODO
 
 # Links
 
-* [Visual Capitalist](https://www.visualcapitalist.com/) - financial visulizations, e.g. [All of the World’s Money and Markets in One Visualization](https://www.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization-2020/)
+* [Visual Capitalist](https://money.visualcapitalist.com/) - financial visulizations, e.g. [All of the World’s Money and Markets in One Visualization](https://www.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization-2020/)
