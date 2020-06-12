@@ -28,7 +28,7 @@ TODO: share more info
 ### Videos
 
 * [Banking 101 by Positive Money](https://www.youtube.com/playlist?list=PLyl80QTKi0gPBcb32paMvXxcq7UUeJskV) - youtube playlist
-* [How The Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0) - [Read PDF](https://www.valuewalk.com/wp-content/uploads/2014/10/ray_dalio__how_the_economic_machine_works__leveragings_and_deleveragings.pdf)
+* [How The Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0) - [Read PDF](https://www.valuewalk.com/wp-content/uploads/2014/10/ray_dalio__how_the_economic_machine_works__leveragings_and_deleveragings.pdf). Forces: Productivity Growth, Short-Term Debt Cycle, Long-Term Debt Cycle
 
 ## Asset and Liability
 
@@ -55,3 +55,7 @@ TODO
 * Questions:
   * what do I really care about?
   * what would have the highest impact for as many people/beings as possible for as long as possible?
+
+# Links
+
+* [Visual Capitalist](https://www.visualcapitalist.com/) - financial visulizations, e.g. [All of the World’s Money and Markets in One Visualization](https://www.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization-2020/)
