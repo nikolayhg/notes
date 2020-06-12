@@ -28,6 +28,7 @@ TODO: share more info
 ### Videos
 
 * [Banking 101 by Positive Money](https://www.youtube.com/playlist?list=PLyl80QTKi0gPBcb32paMvXxcq7UUeJskV) - youtube playlist
+* [How The Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0)
 
 ## Asset and Liability
 
