@@ -55,6 +55,8 @@ TODO
 
 New money to be created by the central bank free of debt. [Read more](https://positivemoney.org/what-we-do/sovereign-money/)
 
+In Germany: [Monetative e.V.](https://monetative.de/)
+
 ### Local Currencies
 
 TODO share more
