@@ -30,6 +30,12 @@ TODO: share more info
 * [Banking 101 by Positive Money](https://www.youtube.com/playlist?list=PLyl80QTKi0gPBcb32paMvXxcq7UUeJskV) - youtube playlist
 * [How The Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0) - [Read PDF](https://www.valuewalk.com/wp-content/uploads/2014/10/ray_dalio__how_the_economic_machine_works__leveragings_and_deleveragings.pdf). Forces: Productivity Growth, Short-Term Debt Cycle, Long-Term Debt Cycle
 
+### Books
+
+Gemran books:
+
+* [Geldschöpfung / Die verborgene Macht der Banken](https://www.buch7.de/produkt/geldschoepfung-die-verborgene-macht-der-banken-horst-seiffert/1024003821)
+
 ## Asset and Liability
 
 TODO
