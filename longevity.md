@@ -35,7 +35,7 @@ published: true
 
 # Aging explained
 
-[Aubrey De Grey](https://en.wikipedia.org/wiki/Aubrey_de_Grey): Aging as accumulation of damage.
+[Aubrey De Grey](https://en.wikipedia.org/wiki/Aubrey_de_Grey): Aging as accumulation of damage. [Watch a talk](https://www.youtube.com/watch?v=PsA__sV0bR4).
 
 | Damage type   | Maintenance approach  |
 |----------|:-------------:|
