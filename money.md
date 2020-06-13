@@ -36,6 +36,14 @@ TODO
 
 ## Taxes
 
+# Alternatives
+
+## Alternative economic models
+
+### Economy for the common good
+
+[Economy for the common good](https://www.ecogood.org/) - measure and optimize common good contributions of companies, municipalities and educational institutions through [Common Good Matrix](https://www.ecogood.org/apply-ecg/common-good-matrix/) according to the [values](https://www.ecogood.org/what-is-ecg/vision-and-values/) **human dignity, solidarity and social justice, environmental sustainability, transparancy and co-determination**.
+
 # Sustainable Banking
 
 ## Germany
