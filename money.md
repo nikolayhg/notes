@@ -65,6 +65,11 @@ German:
 * TODO share more
 * negative-interest currencies
 
+### Others
+
+* [Alternative Currencies in P2P Wiki](https://wiki.p2pfoundation.net/Alternative_Currencies)
+
+
 # Sustainable Banking
 
 ## Germany
