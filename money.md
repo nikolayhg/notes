@@ -44,6 +44,13 @@ TODO
 
 [Economy for the common good](https://www.ecogood.org/) - measure and optimize common good contributions of companies, municipalities and educational institutions through [Common Good Matrix](https://www.ecogood.org/apply-ecg/common-good-matrix/) according to the [values](https://www.ecogood.org/what-is-ecg/vision-and-values/) **human dignity, solidarity and social justice, environmental sustainability, transparancy and co-determination**.
 
+### Vollgeld
+
+
+### Local Currencies
+
+TODO share more
+
 # Sustainable Banking
 
 ## Germany
@@ -63,6 +70,10 @@ TODO
 * Questions:
   * what do I really care about?
   * what would have the highest impact for as many people/beings as possible for as long as possible?
+
+# Read
+
+* [Positive Money Publications](https://positivemoney.org/publications/) - Banks and money creation, money and goverment, escaping growth dependency, digital cash, making our banks work for us, central banks and sustainable finance.
 
 # Links
 
