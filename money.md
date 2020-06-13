@@ -61,7 +61,8 @@ German:
 
 ### Local Currencies
 
-TODO share more
+* TODO share more
+* negative-interest currencies
 
 # Sustainable Banking
 
