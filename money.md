@@ -32,9 +32,10 @@ TODO: share more info
 
 ### Books
 
-Gemran books:
+German books:
 
 * [Geldschöpfung / Die verborgene Macht der Banken](https://www.buch7.de/produkt/geldschoepfung-die-verborgene-macht-der-banken-horst-seiffert/1024003821)
+* [Wem gehört die Welt](https://www.buch7.de/produkt/wem-gehoert-die-welt-hans-juergen-jakobs/1026823666)
 
 ## Asset and Liability
 
