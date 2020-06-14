@@ -68,6 +68,7 @@ German:
 ### Others
 
 * [Alternative Currencies in P2P Wiki](https://wiki.p2pfoundation.net/Alternative_Currencies)
+* [Money Alternatives Different Kinds of Money The History of Their Use Relevance in Building a New Economy](https://www.academia.edu/43088579/Money_Alternatives_Different_Kinds_of_Money_The_History_of_Their_Use_Relevance_in_Building_a_New_Economy)
 
 
 # Sustainable Banking
