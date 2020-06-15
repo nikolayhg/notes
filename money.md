@@ -19,7 +19,7 @@ TODO: share more info
   * **International Central Banks** - [**World Bank**](https://en.wikipedia.org/wiki/World_Bank) and [**International Monetary Fund (IMF)**](https://en.wikipedia.org/wiki/International_Monetary_Fund)
   * **National Central Banks** - set interest rates, determine the amount of money in circulation, lend to governments at interest.
   * **Banks** - offer loans to corporatoins and people, hold their money, create money through fractional reserve banking.
-  * **Corporations** - some with more financial resources than some countries.
+  * **Corporations** - some with more financial resources than some governments.
   * **Government** - 
   * **People, Planet, Living Things** - the majority of living beings and the planet.
 
