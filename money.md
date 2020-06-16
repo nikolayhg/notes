@@ -80,6 +80,8 @@ German:
 
 # Sustainable Banking
 
+* [Global Alliance for Banking on Values](http://www.gabv.org/) - an independent network of banks using finance to deliver sustainable economic, social and environmental development.
+
 ## Germany
 * [fairfinanceguide.de](https://www.fairfinanceguide.de/ffg-d/)
 * [GLS](http://gls.de/), [Triodos](http://triodos.de/), [Tomorrow](https://www.tomorrow.one/), etc.
