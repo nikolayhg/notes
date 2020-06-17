@@ -76,16 +76,23 @@ Source: [Physical Activity](https://brain.forever-healthy.org/display/EN/Physica
 Do a lot of consistent preparatory work in the decades prior your 70s.
 
 Train for:
-* Stability
+* **Stability**
   * \>10mins/day, >1h/week
-* Strength
+  * How?
+    * Dynamic neuromuscular stabilization (DNS)
+    * [Postural Restoration Institute (PRI)](https://www.posturalrestoration.com/)
+    * Pilates
+    * The teacher matter a lot!
+* **Strength**
   * 3x 1h sessions/week
-* Aerobic efficiency (Zone 2)
+  * with weights or body weight
+* **Aerobic efficiency (Zone 2)**
   * min 2h-3h/week
   * Zone 2
     * still able to hold a conversation while training
     * stimulates stimulate Type 1 muscle fibers -> mitochondrial growth and function -> ability to utilize fat and preserve glycogen AND increase lactate clearance capacity
-* Anaerobic work (Zone 5)
+* **Anaerobic work (Zone 5)**
+  * high intensity, HIIT
   * not much of it, incorporate into regular activity
 
 More:
