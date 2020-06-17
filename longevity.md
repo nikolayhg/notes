@@ -83,6 +83,7 @@ Train for:
     * [Postural Restoration Institute (PRI)](https://www.posturalrestoration.com/)
     * Pilates
     * The teacher matter a lot!
+    * Static stability and dynamic stability
 * **Strength**
   * 3x 1h sessions/week
   * with weights or body weight
