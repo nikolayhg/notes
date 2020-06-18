@@ -11,3 +11,4 @@ published: false
 # Startups
 
 * [Startup School](https://www.startupschool.org/) - YC’s free 8-week online course
+* [Entrepreneurship Courses on edX](https://www.edx.org/learn/entrepreneurship)
