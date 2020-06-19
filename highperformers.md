@@ -44,6 +44,19 @@ Indian American entrepreneur and investor
 * [Life Formulas I](https://nav.al/life-formulas-i)
 * [How to Get Rich (without getting lucky)](https://twitter.com/naval/status/1002103360646823936). [Interviews collection about it](https://nav.al/rich)
 
+# Others
+
+* [Researchers and Founders](https://blog.samaltman.com/researchers-and-founders)
+  * very high levels of self-belief
+  * spend a lot of time reflecting on some version of the Hamming question:
+    * What are the most important problems in your field?
+    * Why aren’t you working on them?
+  * laser focus on the next step in front of them combined with long-term vision
+  * extremely persistent and willing to work hard
+  * honest about what is working and what isn’t
+  * creative idea-generators—a lot of the ideas may be terrible, but there is never a shortage.
+  * value autonomy and have a hard time with rules that they don’t think make sense.
+
 
 # Finance
 
