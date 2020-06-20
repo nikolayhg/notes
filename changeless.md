@@ -9,7 +9,7 @@ published: true
 * Change
 
 ## Humans
-* Experiencing during any exprience. Also named by some: awareness, consciousness.
+* Experiencing during any exprience. Also (unscientifically) named by some: awareness, consciousness.
 * Breathing
 * Sleeping
 * Eating
