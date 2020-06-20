@@ -1,3 +1,9 @@
+---
+title: Limitations of the current educational
+date: {}
+published: false
+---
+
 # Limitations of the current educational system
 
 It limits you:
