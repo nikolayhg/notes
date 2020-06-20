@@ -1,6 +1,6 @@
 ---
 title: Limitations of the current educational
-date: {}
+date: 02020-06-20
 published: false
 ---
 
