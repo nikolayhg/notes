@@ -29,6 +29,19 @@ Teach kids to:
 - be disciplined
 - not waste time on entertainment (games, movies, tv, etc)
 
-# Videos
+# Homeschooling
 
-* [Hackschooling makes me happy](https://www.youtube.com/watch?v=h11u3vtcpaY)
+* [Homeschooling international status and statistics](https://en.wikipedia.org/wiki/Homeschooling_international_status_and_statistics)
+  * Legal in: US, Canada, UK, Switzerland, Australia, New Zealand, India, Philippines, Indonesia, Thailand, Chile and others.
+
+# Links
+
+## Educational Projects
+* [withprimer](https://www.withprimer.com/) - Homeschool with superpowers. Free the next generation of kids to be more ambitious, more creative, and think for themselves — starting with homeschoolers.
+* [diy.org](https://diy.org/) - Huge library of hands-on projects, how-to videos, and an awesome kid community
+
+## Other Links
+* [All Pro Parent](http://www.allproparent.com/) - raising high performance Kids. [Simple Path to High Achievement](https://www.allproparent.com/simple-path-to-high-achievement/)
+
+Links collection:
+* [Awesome Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
