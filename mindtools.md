@@ -49,6 +49,8 @@ Questions:
 * Method criteria: simple, limits you.
 * Prioritize tomorrow
 * Do the most important thing first each day.
+* **Scalable priorization** - make scales for the factor you want to prioritize. Measure, prioritize the time spend on each scale
+  * e.g. if you measure money, then measure and prioritize time spent that generates you $10/h, $100/h, $1000/h, $10000/h.
 
 
 ## Reduce Decision Fatigue
