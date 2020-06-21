@@ -14,6 +14,7 @@ published: false
 Projects:
 * [withprimer](https://www.withprimer.com/) - Homeschool with superpowers. Free the next generation of kids to be more ambitious, more creative, and think for themselves — starting with homeschoolers.
 * [diy.org](https://diy.org/) - Huge library of hands-on projects, how-to videos, and an awesome kid community
+* [All Pro Parent](http://www.allproparent.com/) - raising high performance Kids. [Simple Path to High Achievement](https://www.allproparent.com/simple-path-to-high-achievement/)
 
 Links collection:
 * [Awesome Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
