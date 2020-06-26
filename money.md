@@ -105,6 +105,7 @@ TODO
 * Questions:
   * what do I really care about?
   * what would have the highest impact for as many people/beings as possible for as long as possible?
+* [Open Philanthropy](https://www.openphilanthropy.org/) - mission: give as effectively as we can and share our findings openly so that anyone can build on our work.
 
 # Read
 
