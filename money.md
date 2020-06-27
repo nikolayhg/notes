@@ -84,6 +84,8 @@ German:
 * [Global Alliance for Banking on Values](http://www.gabv.org/) - an independent network of banks using finance to deliver sustainable economic, social and environmental development.
   * [Member Banks](http://www.gabv.org/the-community/members/banks)
   * [Principles](http://www.gabv.org/about-us/our-principles) - Social and environmental impact and sustainability are at the heart of the business model. Grounded in communities, serving the real economy, and enabling new business models to meet the needs of people. Long-term, self-sustaining, and resilient to outside disruptions. Transparent and inclusive governance
+* [Institute for Social Banking](https://www.social-banking.org/) - provide Education, Network, and Research for a responsible banking and finance sector
+  * [Members](https://www.social-banking.org/the-institute/#members) - 17 member institutions in 13 countries
 
 ## Germany
 * [fairfinanceguide.de](https://www.fairfinanceguide.de/ffg-d/)
