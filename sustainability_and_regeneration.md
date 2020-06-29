@@ -18,3 +18,4 @@ TODO: share much more info
 
 * [P2P Foundation](https://p2pfoundation.net/)
 * [The Center for Planetary Culture Wiki](http://www.planetaryculture.info/wiki/index.php?title=Main_Page)
+* [Regenerative Communities Network](https://capitalinstitute.org/regenerative-communities/)
