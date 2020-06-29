@@ -41,6 +41,7 @@ Teach kids to:
 * [diy.org](https://diy.org/) - Huge library of hands-on projects, how-to videos, and an awesome kid community
 * [Awesome Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
 * [explorabl.es](https://explorabl.es/) - a hub for learning through play
+* [Explorable Explanations](https://ideonexus.github.io/Explorable-Explanations/) - evolving list of one-shot standalone virtual manipulatives
 
 ## Other Links
 * [All Pro Parent](http://www.allproparent.com/) - raising high performance Kids. [Simple Path to High Achievement](https://www.allproparent.com/simple-path-to-high-achievement/)
