@@ -95,6 +95,11 @@ German:
 ## US
 * [Good Money](https://www.goodmoney.com/)
 
+# Sustainable Finance
+
+* [Sustainable Finance Blueprint by r3.0](https://www.r3-0.org/blueprint-6-sustainable-finance/)
+
+
 # Investing
 
 TODO
