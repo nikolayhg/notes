@@ -44,3 +44,4 @@ Teach kids to:
 
 ## Other Links
 * [All Pro Parent](http://www.allproparent.com/) - raising high performance Kids. [Simple Path to High Achievement](https://www.allproparent.com/simple-path-to-high-achievement/)
+* [Awesome Explorables](https://github.com/sp4ke/awesome-explorables)
