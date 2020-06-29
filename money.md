@@ -98,6 +98,7 @@ German:
 # Sustainable Finance
 
 * [Sustainable Finance Blueprint by r3.0](https://www.r3-0.org/blueprint-6-sustainable-finance/)
+* [Finance For A Regenerative World by Capital Institute](https://capitalinstitute.org/finance-for-a-regenerative-world/)
 
 
 # Investing
