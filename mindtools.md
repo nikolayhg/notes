@@ -150,9 +150,13 @@ Source: https://taylorpearson.me/fast/
 
 # Questions
 
-Interpersonal:
-
 * What important truth do very few people agree with you on? ([read](https://fs.blog/2015/11/the-single-best-interview-question-you-can-ask/))
+* How can I achieve a 10 years goal in 6 months?
+* What makes the problem obsolete?
+
+Thinking/Observation:
+* Look at the object of observation from completely different angle
+* Frame the problem differently
 
 # Links
 
