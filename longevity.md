@@ -118,6 +118,14 @@ Michael Lustgarten, PhD, [Interview](https://www.bisu.bio/biohacking-to-100-long
   - Functional Movement
   - Balance
 
+## Nutrition
+
+[Foods that increase NAD](https://michaellustgarten.com/2020/07/01/are-there-foods-that-can-increase-nad/)
+* two dietary components, apigenin and quercetin to increase NAD
+* Apigenin: Parsley, 40g every other day
+* Quercetin: Dill, Red Onion
+
+
 # Testing
 
 For Biological Age:
