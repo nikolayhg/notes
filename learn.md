@@ -22,6 +22,9 @@ Websites:
 
 * TODO: add Timm Ferris' method [DiSSS (deconstruction, selection, sequencing, and stakes)](https://tim.blog/2016/10/06/the-art-and-science-of-learning-anything-faster/), [Link2](https://tim.blog/2013/05/20/accelerated-learning-techniques/)
 
+# Podcasts
+
+* [Podcast Notes](https://podcastnotes.org/) - The best ideas from the world’s best podcasts in minutes
 
 # Videos
 
