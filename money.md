@@ -78,6 +78,23 @@ German:
 * [Alternative Currencies in P2P Wiki](https://wiki.p2pfoundation.net/Alternative_Currencies)
 * [Money Alternatives Different Kinds of Money The History of Their Use Relevance in Building a New Economy](https://www.academia.edu/43088579/Money_Alternatives_Different_Kinds_of_Money_The_History_of_Their_Use_Relevance_in_Building_a_New_Economy)
 
+# Wealth
+
+## Infinite Banking
+Countries: only US and Canada
+
+Practice: use a specific kind of life insurance that functions as a banking account that compounds tax free. Characteristics:
+* receive guaranteed rate of return, usually 4%, should be higher to beat inflation
+* receive dividends when participating in a mutual company
+* use the insurance as collateral to take unconditionally loans and finance anything you want and pay the loan back to your insurance
+  * the collateral stays and compounds
+  * the compounding collateral can set off the interest of the loan
+* liquid at any time
+* tax-free while using it and after death to beneficiaries
+
+Learn Links:
+* [What Exactly Is The Infinite Banking Concept A Complete Explanation](https://youtu.be/qwJcVn9479o)
+* [The Beginner’s Course - An Introduction to Infinite Banking by Lifestyle Banking](https://lifestylebanking.com/beginners-course/)
 
 # Sustainable Banking
 
