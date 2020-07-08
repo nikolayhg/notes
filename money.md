@@ -83,6 +83,8 @@ German:
 ## Infinite Banking
 Countries: only US and Canada
 
+Idea: take and pay back loans to yourself using your own compounding collateral tax free.
+
 Practice: use a specific kind of life insurance that functions as a banking account that compounds tax free. Characteristics:
 * receive guaranteed rate of return, usually 4%, should be higher to beat inflation
 * receive dividends when participating in a mutual company
