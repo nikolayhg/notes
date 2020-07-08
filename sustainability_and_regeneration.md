@@ -6,6 +6,10 @@ published: true
 
 TODO: share much more info
 
+# Learn
+
+* [Sustainability Illustrated](https://sustainabilityillustrated.com/) - animation videos and illustrations about sustainability
+
 # Germany
 
 * [Nachhaltigkeitsmedien (List of sustainable medias by futurphil)](https://futurphil.de/medien/nachhaltigkeitsmedien/)
