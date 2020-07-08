@@ -8,6 +8,7 @@ TODO: share much more info
 
 # Germany
 
+* [Nachhaltigkeitsmedien (List of sustainable medias by futurphil)](https://futurphil.de/medien/nachhaltigkeitsmedien/)
 * [utopia.de](https://utopia.de/) - Nachhaltigkeit über viele Themen
 * [reset](https://reset.org/) - digital-soziale und grüne Innovationen für eine nachhaltige Entwicklung. News
 * [Konzeptwerk](https://konzeptwerk-neue-oekonomie.org/ueber-uns/) - Netzwerk für ökologisches und soziales Wirtschaften
