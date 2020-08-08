@@ -73,6 +73,13 @@ German:
 * TODO share more
 * negative-interest currencies
 
+### Elastic supply currencies
+
+* [Hayek Money](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2425270)
+  * If higher demand then lower supply. If lower demand then increase supply.
+  * Force the next day opening to be stable.
+  * Stability towards a realistic consumer purchasing power (instead of $1 dollar)
+
 ### Others
 
 * [Alternative Currencies in P2P Wiki](https://wiki.p2pfoundation.net/Alternative_Currencies)
