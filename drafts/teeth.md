@@ -16,6 +16,7 @@ published: false
   - [Magnesium](#magnesium)
   - [Strontium](#strontium)
   - [Boron](#boron)
+  - [Silicon](#silicon)
 - [Nutrition](#nutrition)
 - [External Dental Care](#external-dental-care)
 
@@ -190,6 +191,25 @@ Sources of Boron:
 Foods with Boron:
 - todo
 
+### Silicon
+
+Function:
+- increases the growth rate of hair and nails
+- incraeses the healing rate of skin and bones
+
+Types of Silicon:
+- todo
+
+Dose:
+- normal: 1g
+- cure: 2g
+- duration: months
+
+Sources of Silicon:
+- todo
+
+Foods with Silicon:
+- todo
 
 
 
