@@ -36,10 +36,10 @@ Foods with Vitamin C:
 ### Vitamin D3
 
 Function:
-- 
+- todo
 
 Types of Vitamin D:
-- 
+- todo
 
 Dose:
 - normal: 10000 IE
