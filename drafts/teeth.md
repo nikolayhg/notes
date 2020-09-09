@@ -36,7 +36,12 @@ Foods with Vitamin C:
 ### Vitamin D3
 
 Function:
-- todo
+- helps reabsorb Calcium in the gut
+
+Issues:
+- Hypercalcemia: too much Vitamin D could lead to Hypercalcemia = highly increased Caclium in the blood which could lead to calcification of the arteries as a cardiovascular disease (CVD)
+  - Consideration: how much is too much when most people are Vitamin D deficient?
+  - Prevention: Vitamin K2 can transport Calcium from the blood to the places where it is needed.
 
 Types of Vitamin D:
 - todo
@@ -47,6 +52,22 @@ Dose:
 
 Main Source of Vitamin D:
 - Sunlight
+
+### Vitamin K2
+
+Function:
+- transport Calcium from the blood to the places where it is needed.
+- can help regenerating bones and tooth substance.
+
+Types of Vitamin K2:
+- todo
+
+Dose:
+- normal: 10000 IE
+- cure: 5-10 mg, distributed during the day, 33% at 3x during the day. 4 weeks
+
+Sources of Vitamin K2:
+- todo
 
 
 ## Nutrition
