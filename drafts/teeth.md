@@ -11,6 +11,10 @@ published: false
 - [Vitamins and Minerals](#vitamins-and-minerals)
   - [Vitamin C](#vitamin-c)
   - [Vitamin D3](#vitamin-d3)
+  - [Vitamin K2](#vitamin-k2)
+  - [Calcium](#calcium)
+  - [Magnesium](#magnesium)
+  - [Strontium](#strontium)
 - [Nutrition](#nutrition)
 - [External Dental Care](#external-dental-care)
 
@@ -146,6 +150,27 @@ Foods with Magnesium:
 
 Others:
 - Magnesium oil
+
+
+### Strontium
+
+Function:
+- helps storing Calcium in the bones
+- increases bones structure stability
+
+Types of Strontium:
+- Strontium citrate
+
+Dose:
+- normal: 
+- cure:
+
+Sources of Strontium:
+- todo
+
+Foods with Strontium:
+- todo
+
 
 
 ## Nutrition
