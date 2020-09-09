@@ -4,7 +4,16 @@ date: {}
 published: false
 ---
 
+
 # Teeth and Dental Care
+
+## Table of Contents
+- [Vitamins and Minerals](#vitamins-and-minerals)
+  - [Vitamin C](#vitamin-c)
+  - [Vitamin D3](#vitamin-d3)
+- [Nutrition](#nutrition)
+- [External Dental Care](#external-dental-care)
+
 
 ## Vitamins and Minerals
 
