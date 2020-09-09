@@ -17,6 +17,7 @@ published: false
   - [Strontium](#strontium)
   - [Boron](#boron)
   - [Silicon](#silicon)
+  - [Molybdenum](#molybdenum)
 - [Nutrition](#nutrition)
 - [External Dental Care](#external-dental-care)
 
@@ -210,6 +211,30 @@ Sources of Silicon:
 
 Foods with Silicon:
 - todo
+
+### Molybdenum
+
+Function:
+- increases the detoxification capacity, possible to take more detox nutrients
+- could help healing Candidiasis
+- may reduce caries
+- todo: check if those functions are correct.
+
+Types of Molybdenum:
+- todo
+
+Dose:
+- normal: 
+- cure: 
+- warning: too much might be an issue
+
+Sources of Molybdenum:
+- todo
+
+Foods with Molybdenum:
+- green leafy vegetables, beans, lentils, grains, organ meats
+
+
 
 
 
