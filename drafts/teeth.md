@@ -69,6 +69,25 @@ Dose:
 Sources of Vitamin K2:
 - todo
 
+### Calcium
+
+Function:
+- for bones
+
+Types of Calcium:
+- todo
+
+Dose:
+- normal: 
+- cure: 1 tbsp dolomite rock
+
+Sources of Caclium:
+- dolomite rock, finely ground
+- sango corals, finely ground
+
+Foods with Calcium:
+- todo
+
 
 ## Nutrition
 
