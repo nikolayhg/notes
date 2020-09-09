@@ -26,11 +26,27 @@ Types of Vitamin C:
 - Magnesium ascorbate, C12H14MgO12
 
 Dose:
-- 2-5g per day, distributed during the day.
+- normal: 2-3g per day
+- cure: 2-5g per day, distributed during the day.
 - increase bioavailability with: citric or orange essential oil
 
 Foods with Vitamin C:
 - Raw Sweet red/green pepper, orange, strawberries, brocolli, potato, cantaloupe, lemon, white grapefruit
+
+### Vitamin D3
+
+Function:
+- 
+
+Types of Vitamin D:
+- 
+
+Dose:
+- normal: 10000 IE
+- cure: 30000-50000 IE
+
+Main Source of Vitamin D:
+- Sunlight
 
 
 ## Nutrition
