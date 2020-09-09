@@ -4,9 +4,11 @@ date: {}
 published: false
 ---
 
-# Vitamins and Minerals
+# Teeth and Dental Care
 
-## Vitamin C
+## Vitamins and Minerals
+
+### Vitamin C
 
 Function:
 - heals gums/wounds, receding gums, gingival bleeding
@@ -31,7 +33,7 @@ Foods with Vitamin C:
 - Raw Sweet red/green pepper, orange, strawberries, brocolli, potato, cantaloupe, lemon, white grapefruit
 
 
-# Nutrition
+## Nutrition
 
-# External Care
+## External Dental Care
 
