@@ -15,6 +15,7 @@ published: false
   - [Calcium](#calcium)
   - [Magnesium](#magnesium)
   - [Strontium](#strontium)
+  - [Boron](#boron)
 - [Nutrition](#nutrition)
 - [External Dental Care](#external-dental-care)
 
@@ -170,6 +171,25 @@ Sources of Strontium:
 
 Foods with Strontium:
 - todo
+
+### Boron
+
+Function:
+- remove excess fluorid from the teeth
+
+Types of Boron:
+- todo
+
+Dose:
+- normal: 
+- cure: 9-30 mg
+
+Sources of Boron:
+- todo
+
+Foods with Boron:
+- todo
+
 
 
 
