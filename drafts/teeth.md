@@ -207,7 +207,10 @@ Dose:
 - duration: months
 
 Sources of Silicon:
-- todo
+- nettle
+- red millet, fermented red millet sprouts as powder
+- field horsetail as powder (German: Ackerschachtelhalm / Zinnkraut)
+- bamboo powder
 
 Foods with Silicon:
 - todo
