@@ -88,6 +88,56 @@ Sources of Caclium:
 Foods with Calcium:
 - todo
 
+### Magnesium
+
+Function:
+- helps regenerate enamel
+- helps Calcium go into the bone susbtance
+- helps alkalize some body parts, including the saliva, and thus helps regenerating the enamel
+
+Types of Magnesium:
+- Magnesium citrate
+  - magnesium bound with citric acid
+  - the most bioavailable forms of magnesium
+  - natural laxative effect, it’s also sometimes used at higher doses to treat constipation.
+
+- Magnesium lactate
+  - magnesium binds with lactic acid
+  - is easily absorbed and may be a little gentler on your digestive system than other types.
+  - It may be more suitable for those who don’t tolerate other forms or need to take especially large doses.
+
+- Magnesium L-threonate
+  - magnesium and threonic acid, a water-soluble substance derived from the metabolic breakdown of vitamin C 
+  - may support brain health, potentially aiding the treatment of disorders like depression and memory loss. All the same, further studies are necessary.
+
+- Magnesium sulfate / Epsom salt
+  - magnesium, sulfur, and oxygen
+  - frequently dissolved in water to treat stress and sore muscles. However, very little evidence supports these uses.
+
+- Magnesium glycinate
+  - magnesium and the amino acid glycine
+  - often used as a standalone dietary supplement to improve sleep and treat a variety of inflammatory conditions, including heart disease and diabetes
+  - However, research supporting its efficacy for such conditions is limited.
+
+- Magnesium orotate
+  - includes orotic acid, a natural substance involved in your body’s construction of genetic material, including DNA
+  - it may promote heart health due to orotic acid’s unique role in the energy production pathways in your heart and blood vessel tissue
+
+Dose:
+- normal: 
+- cure: 1g elemental Magnesium = 5g Magnesium citrate
+- use different types of Magnesium
+- increase bioavailability: 
+
+Sources of Caclium:
+- Japaneese Nigari (Magnesium chloride), bitter
+
+Foods with Magnesium:
+- todo
+
+Others:
+- Magnesium oil
+
 
 ## Nutrition
 
