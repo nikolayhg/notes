@@ -22,6 +22,7 @@ published: false
 - [External Dental Care](#external-dental-care)
   - [Oil Pulling](#oil-pulling)
   - [Chewing](#chewing)
+  - [Saliva](#saliva)
 
 
 ## Vitamins and Minerals
@@ -256,3 +257,18 @@ Function:
 
 Function:
 - the more we chew the more TH17 cells are formed which are part of the immune system.
+
+### Saliva
+
+Function:
+- prevents dental plaque, caries and other dental diseases
+- deposits minerals in the tooths
+- the more saliva, the better pH values
+
+Definition:
+- salivary flow rate: the average rate at which saliva is produced in the mouth
+  - the more saliva, the more it does its functions
+
+Increase the salivary flow rate:
+- drink more water
+- chew sugar free gums
