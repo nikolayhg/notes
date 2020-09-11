@@ -19,6 +19,7 @@ published: false
   - [Silicon](#silicon)
   - [Molybdenum](#molybdenum)
 - [Nutrition](#nutrition)
+  - [Protein](#protein)
 - [External Dental Care](#external-dental-care)
   - [Oil Pulling](#oil-pulling)
   - [Chewing](#chewing)
@@ -245,6 +246,13 @@ Foods with Molybdenum:
 
 
 ## Nutrition
+
+### Protein
+
+Sources of Protein:
+- Chlorella (60%), Quinoa, Nuts (Almonds, Walnuts, etc. Peanuts are not nuts!), Seeds (pumpkin, hemp, sesame), fermented soya as miso/natto/tempeh, legumes (beans, lentils, peas)
+- Animal protein: beef, eggs, fish (wild salmon, codfish, gilthead, seabass, trout, sardines, mackerel), lamb, poultry, seafood, calf, cow's milk products
+
 
 ## External Dental Care
 
