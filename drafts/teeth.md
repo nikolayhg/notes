@@ -20,6 +20,7 @@ published: false
   - [Molybdenum](#molybdenum)
 - [Nutrition](#nutrition)
   - [Protein](#protein)
+  - [Carbohydrates](#carbohydrates)
 - [External Dental Care](#external-dental-care)
   - [Oil Pulling](#oil-pulling)
   - [Chewing](#chewing)
@@ -249,10 +250,17 @@ Foods with Molybdenum:
 
 ### Protein
 
-Sources of Protein:
+Sources of protein:
 - Chlorella (60%), Quinoa, Nuts (Almonds, Walnuts, etc. Peanuts are not nuts!), Seeds (pumpkin, hemp, sesame), fermented soya as miso/natto/tempeh, legumes (beans, lentils, peas)
 - Animal protein: beef, eggs, fish (wild salmon, codfish, gilthead, seabass, trout, sardines, mackerel), lamb, poultry, seafood, calf, cow's milk products
 
+### Carbohydrates
+
+Goal:
+- eat carbs with low Glycemic Load (GL). Avoid high GL carbs.
+
+Sources of carbohydrates (low GL):
+- 
 
 ## External Dental Care
 
