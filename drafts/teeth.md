@@ -20,6 +20,7 @@ published: false
   - [Molybdenum](#molybdenum)
 - [Nutrition](#nutrition)
 - [External Dental Care](#external-dental-care)
+  - [Oil Pulling](#oil-pulling)
 
 
 ## Vitamins and Minerals
@@ -244,4 +245,9 @@ Foods with Molybdenum:
 ## Nutrition
 
 ## External Dental Care
+
+### Oil Pulling
+
+Function:
+- contain lipids that supports the dental pellicle, which protects the tooth from acids.
 
