@@ -263,6 +263,8 @@ Function:
 Function:
 - prevents dental plaque, caries and other dental diseases
 - deposits minerals in the tooths
+- contains peptid histatin which kills pathogenic germs
+- contains immunoglobulin, part of the immune system
 - the more saliva, the better pH values
 
 Definition:
