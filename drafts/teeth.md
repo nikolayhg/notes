@@ -336,3 +336,9 @@ Definition:
 Increase the salivary flow rate:
 - drink more water
 - chew sugar free gums
+
+## Sources
+
+- Dominik Nischwitz - In aller Munde: Unsere Zähne und ihre Bedeutung für die Gesundheit des gesamten Körpers
+  - biological dentistry
+- Benjamin Weidig - Zaehne und Knochen natuerlich heilen - Der Mineralisierungscode
