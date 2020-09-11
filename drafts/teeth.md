@@ -14,6 +14,7 @@ published: false
   - [Vitamin K2](#vitamin-k2)
   - [Calcium](#calcium)
   - [Magnesium](#magnesium)
+  - [Zinc](#zinc)
   - [Strontium](#strontium)
   - [Boron](#boron)
   - [Silicon](#silicon)
@@ -159,6 +160,30 @@ Foods with Magnesium:
 
 Others:
 - Magnesium oil
+
+### Zinc
+
+Function:
+- cofactor in >300 metabolic processes, including in the bones and detoxification processes
+- improves healing, including the mucous membranes of the mouth (gum bleeding)
+- improves insulin sensitivity of the cells
+- helps the immune system
+- stimulates the growth of white blood cells
+- participates in the production of thymulin, testosteron  
+
+Types of Zinc:
+- zinc citrate
+- zinc glyconat
+
+Dose:
+- normal: 
+- cure:
+
+Sources of Zinc:
+- todo
+
+Foods with Zinc:
+- todo
 
 
 ### Strontium
