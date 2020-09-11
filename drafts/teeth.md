@@ -21,6 +21,7 @@ published: false
 - [Nutrition](#nutrition)
 - [External Dental Care](#external-dental-care)
   - [Oil Pulling](#oil-pulling)
+  - [Chewing](#chewing)
 
 
 ## Vitamins and Minerals
@@ -251,3 +252,7 @@ Foods with Molybdenum:
 Function:
 - contain lipids that supports the dental pellicle, which protects the tooth from acids.
 
+### Chewing
+
+Function:
+- the more we chew the more TH17 cells are formed which are part of the immune system.
