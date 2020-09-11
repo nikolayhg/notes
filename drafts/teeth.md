@@ -27,6 +27,7 @@ published: false
   - [Oil Pulling](#oil-pulling)
   - [Chewing](#chewing)
   - [Saliva](#saliva)
+- [Sources](#sources)
 
 
 ## Vitamins and Minerals
