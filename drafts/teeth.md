@@ -360,12 +360,17 @@ Increase the salivary flow rate:
 Avoid:
 - fluoride, titanium dioxide
 - abrasive particles
+- Diethanolamine (DEA), Triclosan
+- Sodium laureth sulfate, sodium lauryl sulfate, sodium salt
+- Propylene Glycol
 
 ### Others
 
 Do:
 - go to professional dental cleaning, 2x per year, if possible biological dental care.
 - if implants needed, use ceramic, metal free, e.g. zirconium dioxide.
+- use calcium bentonite clay
+- use homemade tooth soap, book: Good Teeth, Birth to Death Dr. Gerald Judd, PhD
 
 Avoid:
 - standard moothwashes
@@ -376,3 +381,4 @@ Avoid:
 - Dominik Nischwitz - In aller Munde: Unsere Zähne und ihre Bedeutung für die Gesundheit des gesamten Körpers
   - biological dentistry
 - Benjamin Weidig - Zaehne und Knochen natuerlich heilen - Der Mineralisierungscode
+- Kate Evans Scott - The Natural Remedy For Tooth Decay
