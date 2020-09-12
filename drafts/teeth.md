@@ -112,6 +112,10 @@ Sources of Caclium:
 Foods with Calcium:
 - todo
 
+Links:
+- [Calcium: the dynamite mineral](https://youtu.be/4eSCuho4EnQ?t=25)
+- [Phosphorous & Magnesium: the Calcium co-workers](https://youtu.be/-BQTOeAdypo?t=25)
+
 ### Magnesium
 
 Function:
@@ -170,7 +174,7 @@ Function:
 - improves insulin sensitivity of the cells
 - helps the immune system
 - stimulates the growth of white blood cells
-- participates in the production of thymulin, testosteron  
+- participates in the production of thymulin, testosteron
 
 Types of Zinc:
 - zinc citrate
@@ -186,6 +190,8 @@ Sources of Zinc:
 Foods with Zinc:
 - todo
 
+Links:
+- [Zinc of all trades](https://youtu.be/Ih64OCRHTCM?t=25)
 
 ### Strontium
 
