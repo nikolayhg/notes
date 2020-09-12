@@ -334,6 +334,9 @@ Function:
 Function:
 - the more we chew the more TH17 cells are formed which are part of the immune system.
 
+Sources:
+- xylitol gums
+
 ### Saliva
 
 Function:
@@ -371,6 +374,11 @@ Do:
 - if implants needed, use ceramic, metal free, e.g. zirconium dioxide.
 - use calcium bentonite clay
 - use homemade tooth soap, book: Good Teeth, Birth to Death Dr. Gerald Judd, PhD
+- Brush your teeth effectively
+  - soft bristle, at 45 degree, gentle pressure, in small circles (each teeth, 8x times) near the curve of the gums
+  - brush your teeth thoroughly and as soon as possible after eating a sugary meal or drink
+- Irrigate your teeth and gums thoroughly
+  - use oral irrigator
 
 Avoid:
 - standard moothwashes
