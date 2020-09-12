@@ -289,7 +289,7 @@ Avoid:
 ### Carbohydrates
 
 Goal:
-- eat carbs with low Glycemic Load (GL). Avoid high GL carbs.
+- eat carbs with low Glycemic Load (GL). Avoid high GL carbs. [Learn about Glycemic Index & Glycemic Load](https://www.youtube.com/watch?v=LylsVQ8HFIw)
 
 Sources of carbohydrates (low GL):
 - todo
