@@ -52,7 +52,11 @@ Goal:
 - eat more complex carbs, with fiber and starch: whole grains, beans, etc
 
 Avoid:
-- simple carbs: 
+- simple carbs: sugars, syrops, etc
+  - causes the bacteria to produce enamel-eating acid
+  - prevents absorption of remineralizing nutrients
+- whole grains
+  - high in phytic acid, inhibits the absorption of essential vitamins and minerals including vitamin D, calcium, and phosphorus.
 
 Sources of carbohydrates (low GL):
 - todo
