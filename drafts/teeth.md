@@ -27,6 +27,7 @@ published: false
   - [Oil Pulling](#oil-pulling)
   - [Chewing](#chewing)
   - [Saliva](#saliva)
+  - [Toothbrush](#toothbrush)
 - [Sources](#sources)
 
 
@@ -347,6 +348,26 @@ Definition:
 Increase the salivary flow rate:
 - drink more water
 - chew sugar free gums
+
+### Toothbrush
+- ultrasonic toothbrush is generally better. But manual is also okay.
+- in circular motion, not in horizontal
+
+### Toothpaste
+
+Avoid:
+- fluoride, titanium dioxide
+- abrasive particles
+
+### Others
+
+Do:
+- go to professional dental cleaning, 2x per year, if possible biological dental care.
+- if implants needed, use ceramic, metal free, e.g. zirconium dioxide.
+
+Avoid:
+- standard moothwashes
+- amalgam fillings. If exising, remove them but very safely.
 
 ## Sources
 
