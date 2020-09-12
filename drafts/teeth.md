@@ -8,6 +8,10 @@ published: false
 # Teeth and Dental Care
 
 ## Table of Contents
+- [Nutrition](#nutrition)
+  - [Protein](#protein)
+  - [Carbohydrates](#carbohydrates)
+  - [Fats](#fats)
 - [Vitamins and Minerals](#vitamins-and-minerals)
   - [Vitamin C](#vitamin-c)
   - [Vitamin D3](#vitamin-d3)
@@ -19,16 +23,52 @@ published: false
   - [Boron](#boron)
   - [Silicon](#silicon)
   - [Molybdenum](#molybdenum)
-- [Nutrition](#nutrition)
-  - [Protein](#protein)
-  - [Carbohydrates](#carbohydrates)
-  - [Fats](#fats)
 - [External Dental Care](#external-dental-care)
   - [Oil Pulling](#oil-pulling)
   - [Chewing](#chewing)
   - [Saliva](#saliva)
   - [Toothbrush](#toothbrush)
 - [Sources](#sources)
+
+
+
+## Nutrition
+
+
+### Protein
+
+Sources of protein:
+- Chlorella (60%), Quinoa, Nuts (Almonds, Walnuts, etc. Peanuts are not nuts!), Seeds (pumpkin, hemp, sesame), fermented soya as miso/natto/tempeh, legumes (beans, lentils, peas)
+- Animal protein: beef, eggs, fish (wild salmon, codfish, gilthead, seabass, trout, sardines, mackerel), lamb, poultry, seafood, calf, cow's milk products
+
+Avoid:
+- gluten: cereal grains
+
+
+### Carbohydrates
+
+Goal:
+- eat carbs with low Glycemic Load (GL). Avoid high GL carbs. [Learn about Glycemic Index & Glycemic Load](https://www.youtube.com/watch?v=LylsVQ8HFIw)
+- eat more complex carbs, with fiber and starch: whole grains, beans, etc
+
+Avoid:
+- simple carbs: 
+
+Sources of carbohydrates (low GL):
+- todo
+
+
+### Fats
+
+Source of good fats:
+- saturated fats: coconut oil, egg yolk, butter
+- monounsaturated fatty acids (MFA): olive oil, nuts
+- Omega 3:
+  - ALA: linseeds
+  - EPA and DHA: fish (wild salmon). Best ratio = 2:1
+
+Bad fats (Omega 6):
+- vegetable oils
 
 
 ## Vitamins and Minerals
@@ -275,48 +315,6 @@ Sources of Molybdenum:
 
 Foods with Molybdenum:
 - green leafy vegetables, beans, lentils, grains, organ meats
-
-
-
-
-
-## Nutrition
-
-
-### Protein
-
-Sources of protein:
-- Chlorella (60%), Quinoa, Nuts (Almonds, Walnuts, etc. Peanuts are not nuts!), Seeds (pumpkin, hemp, sesame), fermented soya as miso/natto/tempeh, legumes (beans, lentils, peas)
-- Animal protein: beef, eggs, fish (wild salmon, codfish, gilthead, seabass, trout, sardines, mackerel), lamb, poultry, seafood, calf, cow's milk products
-
-Avoid:
-- gluten: cereal grains
-
-
-### Carbohydrates
-
-Goal:
-- eat carbs with low Glycemic Load (GL). Avoid high GL carbs. [Learn about Glycemic Index & Glycemic Load](https://www.youtube.com/watch?v=LylsVQ8HFIw)
-- eat more complex carbs, with fiber and starch: whole grains, beans, etc
-
-Avoid:
-- simple carbs: 
-
-Sources of carbohydrates (low GL):
-- todo
-
-
-### Fats
-
-Source of good fats:
-- saturated fats: coconut oil, egg yolk, butter
-- monounsaturated fatty acids (MFA): olive oil, nuts
-- Omega 3:
-  - ALA: linseeds
-  - EPA and DHA: fish (wild salmon). Best ratio = 2:1
-
-Bad fats (Omega 6):
-- vegetable oils
 
 
 
