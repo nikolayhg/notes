@@ -390,3 +390,4 @@ Avoid:
   - biological dentistry
 - Benjamin Weidig - Zaehne und Knochen natuerlich heilen - Der Mineralisierungscode
 - Kate Evans Scott - The Natural Remedy For Tooth Decay
+- Stephen A. Lawrence - Holistic Dental Care
