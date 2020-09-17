@@ -353,6 +353,8 @@ Definition:
 Increase the salivary flow rate:
 - drink more water
 - chew sugar free gums
+  - xylitol recommened
+  - avoid: sorbitol, mannitol, maltitol, and erythritol
 
 ### Toothbrush
 - ultrasonic toothbrush is generally better. But manual is also okay.
