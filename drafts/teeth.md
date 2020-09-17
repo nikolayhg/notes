@@ -363,10 +363,17 @@ Increase the salivary flow rate:
 ### Toothpaste
 
 Avoid:
-- fluoride, titanium dioxide
-- abrasive particles
+- Fluoride
+- Titanium dioxide:
+  - used for brightness and whiteness
+  - potentially caricnogenic
+  - if in nano-sized particles can be toxic
+- Abrasive particles:
+  - Hydrated silica: made from quartz and sand
 - Diethanolamine (DEA), Triclosan
 - Sodium laureth sulfate, sodium lauryl sulfate, sodium salt
+  - used as foaming agent and degreaser
+  - correlated with canker sores
 - Propylene Glycol
 
 ### Others
