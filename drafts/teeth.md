@@ -400,3 +400,4 @@ Avoid:
 - Benjamin Weidig - Zaehne und Knochen natuerlich heilen - Der Mineralisierungscode
 - Kate Evans Scott - The Natural Remedy For Tooth Decay
 - Stephen A. Lawrence - Holistic Dental Care
+- Ramiel Nagel - Cure Tooth Decay, Heal and Prevent Cavities with Nutrition
