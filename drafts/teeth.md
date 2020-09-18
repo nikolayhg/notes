@@ -106,6 +106,7 @@ Foods with Vitamin C:
 
 Function:
 - helps reabsorb Calcium in the gut
+- transports Calcium in the bones and teeth, together with the cofactors Magnesium und Vitamin K2
 
 Issues:
 - Hypercalcemia: too much Vitamin D could lead to Hypercalcemia = highly increased Caclium in the blood which could lead to calcification of the arteries as a cardiovascular disease (CVD)
