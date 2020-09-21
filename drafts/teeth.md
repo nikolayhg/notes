@@ -34,6 +34,10 @@ published: false
 
 ## Nutrition
 
+### Overview
+
+- [Ernährungsdesign nach Dr. Dominik Nischwitz](https://www.dnaesthetics.de/wp-content/uploads/2017/03/Dna_Heft-FoodDesign_DE_A4_NO%C2%AE_170224.pdf) - protein, carbs (no gluten), fats, fruits, vegetables.
+  - [Superfoods by Dr. Dominik Nischwitz](https://i.imgur.com/djsFjT1.png)
 
 ### Protein
 
@@ -398,7 +402,6 @@ Avoid:
 
 - Dominik Nischwitz - In aller Munde: Unsere Zähne und ihre Bedeutung für die Gesundheit des gesamten Körpers
   - biological dentistry
-  - [Ernährungsdesign nach Dr. Dominik Nischwitz](https://www.dnaesthetics.de/wp-content/uploads/2017/03/Dna_Heft-FoodDesign_DE_A4_NO%C2%AE_170224.pdf)
 - Benjamin Weidig - Zaehne und Knochen natuerlich heilen - Der Mineralisierungscode
 - Kate Evans Scott - The Natural Remedy For Tooth Decay
 - Stephen A. Lawrence - Holistic Dental Care
