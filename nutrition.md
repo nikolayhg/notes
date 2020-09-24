@@ -20,6 +20,7 @@ published: true
 * [BMJ](https://www.bmj.com/) - provider of journals, clinical decision support, events and medical education, owned subsidiary of the British Medical Association.
 * [The American Journal of Clinical Nutrition](https://academic.oup.com/ajcn) - peer-reviewed, primary research journal in nutrition and dietetics, obesity, vitamins and minerals, nutrition and disease, and energy metabolism.
 * [Obesity and Energetics Offerings](https://www.obesityandenergetics.org/) - categories of Basic, Drugs, and Caloric and Dietary Restriction. Recommended by Peter Attia.
+* [International Journal of Disease Reversal and Prevention](https://ijdrp.org/) - peer-reviewed, open-access journal committed to document the role of nutrition and lifestyle in arresting and reversing chronic lifestyle-related diseases.
 
 # Understanding Science
 
