@@ -23,6 +23,8 @@ Music, best of.
 * [Energy 52 - Cafe Del Mar (Original Video)](https://www.youtube.com/watch?v=9o2cV-FpoHo)
 * [Robert Miles - Children](https://www.youtube.com/watch?v=CC5ca6Hsb2Q)
 * [Tiesto - Adagio For Strings](https://www.youtube.com/watch?v=8tIgN7eICn4)
+* [Tiësto - Ten Seconds Before Sunrise](https://www.youtube.com/watch?v=muNKZK5aSNQ)
+* [Cosmic Gate - Exploration Of Space](https://www.youtube.com/watch?v=NE2AvbROl5k)
 
 ## Mixes
 
