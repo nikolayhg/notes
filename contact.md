@@ -19,4 +19,5 @@ Connect the words below to get my email (SPAM prevention):
 
 # Others
 
-- [keybase](https://keybase.io/nikolayhg)
+- [Wire](https://wire.com) - @nikolayhg
+- [keybase](https://keybase.io/nikolayhg) - @nikolayhg
