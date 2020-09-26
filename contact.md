@@ -12,12 +12,12 @@ Connect the words below to get my email (SPAM prevention):
 - georgiev.
 - cc
 
-# Social
-
-- [Facebook](https://www.facebook.com/nikolayhg/)
-- [Twitter](https://twitter.com/nikolayhg)
-
 # Others
 
 - [Wire](https://wire.com) - @nikolayhg
 - [keybase](https://keybase.io/nikolayhg) - @nikolayhg
+
+# Social
+
+- [Facebook](https://www.facebook.com/nikolayhg/)
+- [Twitter](https://twitter.com/nikolayhg)
