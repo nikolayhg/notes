@@ -8,11 +8,15 @@ Music, best of.
 
 # Ambient
 
+[Youtube playlist](https://www.youtube.com/playlist?list=PLZjbGyhTW8yFN0Ap1xk7RdPX8uVAjrdbz):
+
 * [Chicane - Offshore (Ambient Mix)](https://www.youtube.com/watch?v=uCEN4OCJ0DI)
 * [Energy 52 - Café Del Mar (Michael Woods Ambient Remix)](https://www.youtube.com/watch?v=lE2KPkzUkw4)
 * [Sunlounger - White Sand](https://www.youtube.com/watch?v=zLej4J5JLdk)
 
 # Trance
+
+[Youtube playlist](https://www.youtube.com/playlist?list=PLZjbGyhTW8yH0QHOJ7EVeOB4jX3DiTlfC):
 
 * [Sound Apparel - Conventum](https://www.youtube.com/watch?v=O9f73oCx7VI)
 * [DJ Rolando - Knights Of The Jaguar](https://www.youtube.com/watch?v=EdqROEmZ74k)
@@ -26,6 +30,7 @@ Music, best of.
 * [Tiesto - Adagio For Strings](https://www.youtube.com/watch?v=8tIgN7eICn4)
 * [Tiësto - Ten Seconds Before Sunrise](https://www.youtube.com/watch?v=muNKZK5aSNQ)
 * [Cosmic Gate - Exploration Of Space](https://www.youtube.com/watch?v=NE2AvbROl5k)
+
 
 ## Mixes
 
