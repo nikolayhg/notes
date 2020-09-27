@@ -33,6 +33,7 @@ Music, best of.
 
 ## Vocal Trance
 
+* [Schiller - I Feel You](https://www.youtube.com/watch?v=ukeRe0cyyv8)
 * [Andain - Beautiful Things](https://www.youtube.com/watch?v=khYQiK9v2z4)
 * [Armin van Buuren ft. Nadia Ali - Feels So Good](https://www.youtube.com/watch?v=_WOwRVTKJUw)
 * [IIO - Rapture (Lametta Made2Chill remix))](https://www.youtube.com/watch?v=r8Z1mWZAJJw)
