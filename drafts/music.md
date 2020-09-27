@@ -4,7 +4,7 @@ date: {}
 published: false
 ---
 
-Music, best of.
+Music, personal favorites.
 
 # Ambient
 
