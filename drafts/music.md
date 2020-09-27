@@ -32,10 +32,6 @@ Music, personal favorites.
 * [Cosmic Gate - Exploration Of Space](https://www.youtube.com/watch?v=NE2AvbROl5k)
 
 
-## Mixes
-
-* [TOP 20 UPLIFTING & EMOTIONAL TRANCE 2015 / BEST OF 2015 / A WORLD OF TRANCE TV](https://www.youtube.com/watch?v=fl-BVG2VN1s)
-
 ## Vocal Trance
 
 * [Schiller - Der Tag ... Du bist erwacht](https://www.youtube.com/watch?v=ZScp-b59JWA)
