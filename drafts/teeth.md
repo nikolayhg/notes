@@ -9,6 +9,7 @@ published: false
 
 ## Table of Contents
 - [Nutrition](#nutrition)
+  - [Nutrition Overview](#nutrition-overview)
   - [Protein](#protein)
   - [Carbohydrates](#carbohydrates)
   - [Fats](#fats)
@@ -34,10 +35,20 @@ published: false
 
 ## Nutrition
 
-### Overview
+### Nutrition Overview
 
 - [Ernährungsdesign nach Dr. Dominik Nischwitz](https://www.dnaesthetics.de/wp-content/uploads/2017/03/Dna_Heft-FoodDesign_DE_A4_NO%C2%AE_170224.pdf) - protein, carbs (no gluten), fats, fruits, vegetables.
   - [Superfoods by Dr. Dominik Nischwitz](https://i.imgur.com/djsFjT1.png)
+- [What to eat in case of Periodontitis (German article by DZW Die Zahnarzt Woche)](https://www.dzw.de/was-essen-bei-parodontitis)
+  - reduction of simple carbs: sugar (glucose and isolated fructose), white flour, juices, sweet pastries. Reason: simple carbs promote gingival and periodontal inflammation, tooth decay and obesity. Research: [1](https://pubmed.ncbi.nlm.nih.gov/26773022/)
+  - Reduction of saturated fatty acids, trans fatty acids, omega-6 fatty acids. Reason: Saturated and trans fats are associated with higher incidence of periodontal disease. Research: [1](https://pubmed.ncbi.nlm.nih.gov/21505204/)
+  - Focused intake of omega-3 fatty acids. Reason: can reduce gingival and periodontal inflammation. Research: [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4962497/), [2](https://pubmed.ncbi.nlm.nih.gov/26885664/)
+  - Focused intake of micronutrients. Reason: basis for a healthy function of the metabolism and immune system. The increased intake of micronutrients is associated with a lower incidence of periodontal disease. Research: [1](https://pubmed.ncbi.nlm.nih.gov/21323711/)
+    - Vitamin C: grapefruits, oranges, strawberries, kiwis
+    - Vitamin D, B12.
+    - Nuts, seeds, magnesium, blueberries, turmeric
+  - Focused intake of fiber. Reason: anti-inflammatory, prebiotic and ensure a constant blood sugar level, associated with a lower incidence of periodontal disease. Research: [1](https://pubmed.ncbi.nlm.nih.gov/16762952/)
+  - Focused intake of plants containing nitrates. Reason: anti-inflammatory, can reduce gingivitis. Research: [1](https://pubmed.ncbi.nlm.nih.gov/26969836/)
 
 ### Protein
 
