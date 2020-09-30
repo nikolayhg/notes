@@ -378,6 +378,9 @@ Increase the salivary flow rate:
 
 ### Toothpaste
 
+Use:
+- Xylitol. Research: [1](https://www.nature.com/articles/4810022#Abs1)
+
 Avoid:
 - Fluoride
 - Titanium dioxide:
