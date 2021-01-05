@@ -16,10 +16,7 @@ at
 
 # Others
 
+- [Twitter](https://twitter.com/nikolayhg) - @nikolayhg
 - [Wire](https://wire.com) - @nikolayhg
-- [keybase](https://keybase.io/nikolayhg) - @nikolayhg
-
-# Social
-
-- [Facebook](https://www.facebook.com/nikolayhg/)
-- [Twitter](https://twitter.com/nikolayhg)
+- [Keybase](https://keybase.io/nikolayhg) - @nikolayhg
+- [Facebook](https://www.facebook.com/nikolayhg/) - @nikolayhg
