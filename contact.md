@@ -7,10 +7,10 @@ date: 2020-08-10
 
 Connect the words below to get my email (SPAM prevention):
 
-- nikolay
+- geon
 - at
-- georgiev.
-- cc
+- tuta.
+- io
 
 # Others
 
