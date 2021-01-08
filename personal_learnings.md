@@ -42,3 +42,7 @@ __Example__: Having expectations without understanding how the context works. Co
 This is the most simple and effective everywhere applicable development process I am currently aware of. You should define what Best and Worst mean for you. The more clear the definitions, the quicker you will be able to identify Best and Worst, the quicker you can make decisions and develop further. After the first iteration and with every next iteration, you will leave things that you previously thought were good, because as you develop further, you know and can identify better what it best, and connect more and more with the best.
 
 __Example__: Look in your room and identify the worst and best things. Remove the worst and keep the best. Repeat - look at the remaining things, remove the worst and keep the best.
+
+
+# True character is revealed in the extremes
+Pay attention how you act in the very positive and negative extremes. Reflect and improve.
