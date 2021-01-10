@@ -19,4 +19,5 @@ at
 - [Twitter](https://twitter.com/nikolayhg) - @nikolayhg
 - [Wire](https://wire.com) - @nikolayhg
 - [Keybase](https://keybase.io/nikolayhg) - @nikolayhg
+- [Signal](https://signal.org/)
 - [Facebook](https://www.facebook.com/nikolayhg/) - @nikolayhg
