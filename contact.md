@@ -20,4 +20,5 @@ at
 - [Wire](https://wire.com) - @nikolayhg
 - [Keybase](https://keybase.io/nikolayhg) - @nikolayhg
 - [Signal](https://signal.org/)
+- [Threema](https://threema.ch/en/)
 - [Facebook](https://www.facebook.com/nikolayhg/) - @nikolayhg
