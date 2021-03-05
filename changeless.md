@@ -7,6 +7,7 @@ published: true
 # Things that do not change
 
 * Change
+* Existance of time
 
 ## Humans
 * Experiencing during any exprience. Also (unscientifically) named by some: awareness, consciousness.
