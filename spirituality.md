@@ -22,7 +22,7 @@ published: true
   - high quality information about NDE-related subjects. Peer-reviewed scholarly journal, sponsors conferences.
 - [NDERF](https://nderf.org/) - NDE Research Foundation
   - more than 5000 NDEs.
-- [near-death.com](https://near-death.com/) - 
+- [near-death.com](https://near-death.com/) - more than 50 NDEs and related topics.
 - [Videos](https://www.youtube.com/c/Batgap/search?query=near%20death%20experiences) and [Blog](https://batgap.com/category/nde/) NDE interviews with Rick Archer
 
 ## Podcasts
