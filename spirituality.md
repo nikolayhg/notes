@@ -27,3 +27,6 @@ published: true
 
 ## Podcasts
 - [Buddha at the Gas Pump](https://batgap.com/) - more than 500 interviews with people ([Podcast](https://batgap.com/subscribe-to-podcast/), [YouTube](https://www.youtube.com/c/Batgap))
+
+## Others
+- [Amma, Mata Amritanandamayi](https://amma.org/)
