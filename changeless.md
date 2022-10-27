@@ -7,7 +7,8 @@ published: true
 # Things that do not change
 
 * Change
-* Existance of time
+* Existence of time
+  * (might not exist the way we currently know it during certain parts of spiritual experiences, like NDEs)
 
 ## Humans
 * Experiencing during any exprience. Also (unscientifically) named by some: awareness, consciousness.
