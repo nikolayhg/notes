@@ -3,7 +3,7 @@ title: Art
 date: 2023-03-10
 ---
 
-# Spiritual Art
+# Visionary Art
 
 - [Alex Grey](https://www.alexgrey.com/)
 - [Simon Haiduk](https://simonhaiduk.com/)
