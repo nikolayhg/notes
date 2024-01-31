@@ -10,3 +10,4 @@ date: 2023-07-29
 # Zouk
 
 * [Awesome Zouk](https://github.com/nikolayhg/awesome-zouk)
+* [Zouk Meditations](https://nikolayhg.com/zouk-meditations/)
