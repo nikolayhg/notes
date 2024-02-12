@@ -9,9 +9,9 @@ published: true
 * Change
 * Existence of time
   * (might not exist the way we currently know it during certain parts of spiritual experiences, like NDEs)
-* Experiencing during any exprience. Existing while existing. Also (unscientifically) named by some: awareness, consciousness.
 
 ## Humans
+* Experiencing during any exprience. Existing while existing. Also (unscientifically) named by some: awareness, consciousness.
 * Breathing
 * Sleeping
 * Eating
