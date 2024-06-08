@@ -33,7 +33,8 @@ Observations -> Questions -> Model (Hypothesis) / Explanation -> Prediction -> T
 
 # Links
 
-* [Center for Open Science](https://www.cos.io/) - mission to increase openness, integrity, and reproducibility of research. 
+* [Center for Open Science](https://www.cos.io/) - mission to increase openness, integrity, and reproducibility of research.
+* [NGSS - Next Generation Science Standards](https://www.bozemanscience.com/next-generation-science-standards) - Scientific & Engineering Practices, Crosscutting Concepts, Physical Science Disciplinary Core Ideas, Life Science Disciplinary Core Ideas, Earth & Space Science Disciplinary Core Ideas, Engineering, Technology & Applications of Science Disciplinary Core Ideas
 
 # Single Links
 
