@@ -17,5 +17,5 @@ at
 # Others
 
 - [Twitter](https://twitter.com/nikolayhg) - @nikolayhg
-- [Signal](https://signal.org/)
+- [Signal](https://signal.org/) - only by request
 - [Facebook](https://www.facebook.com/nikolayhg/) - @nikolayhg
